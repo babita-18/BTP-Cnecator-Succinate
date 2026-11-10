@@ -1,0 +1,462 @@
+
+
+      _____   _____   _____   _____     _____     |
+     /  ___| /  _  \ |  _  \ |  _  \   / ___ \    |   COnstraint-Based Reconstruction and Analysis
+     | |     | | | | | |_| | | |_| |  | |___| |   |   The COBRA Toolbox - 2026
+     | |     | | | | |  _  { |  _  /  |  ___  |   |
+     | |___  | |_| | | |_| | | | \ \  | |   | |   |   Documentation:
+     \_____| \_____/ |_____/ |_|  \_\ |_|   |_|   |   http://opencobra.github.io/cobratoolbox
+                                                  | 
+
+ > Checking if git is installed ...  Done (version: 2.56.0).
+ > Checking if the repository is tracked using git ...  Done.
+ > Checking if curl is installed ...  Done.
+ > Checking if remote can be reached ...  Done.
+ > Initializing and updating submodules (this may take a while)... Done.
+ > Adding all the files of The COBRA Toolbox ...  Done.
+ > Define CB map output... set to svg.
+ > TranslateSBML is installed and working properly.
+ > Configuring solver environment variables ...
+   - [*---] ILOG_CPLEX_PATH: --> set this path manually after installing the solver ( see https://opencobra.github.io/cobratoolbox/docs/solvers.html )
+   - [*---] GUROBI_PATH: --> set this path manually after installing the solver ( see https://opencobra.github.io/cobratoolbox/docs/solvers.html )
+   - [*---] TOMLAB_PATH: --> set this path manually after installing the solver ( see https://opencobra.github.io/cobratoolbox/docs/solvers.html )
+   - [*---] MOSEK_PATH: --> set this path manually after installing the solver ( see https://opencobra.github.io/cobratoolbox/docs/solvers.html )
+   Done.
+ > Checking available solvers and solver interfaces ...Could not find installation of dqqMinos, so it cannot be tested
+Gurobi installed at this location? 
+Licence file current? 
+Could not find installation of matlab, so it cannot be tested
+Could not find installation of mosek, so it cannot be tested
+Could not find installation of quadMinos, so it cannot be tested
+Could not find installation of tomlab_snopt, so it cannot be tested
+ Done.
+ > Setting default solvers ...Could not find installation of mosek, so it cannot be tested
+Could not find installation of mosek, so it cannot be tested
+Could not find installation of matlab, so it cannot be tested
+ Done.
+ > Saving the MATLAB path ... Done.
+   - The MATLAB path was saved in the default location.
+
+ > Summary of available solvers and solver interfaces
+
+					Support           LP 	 MILP 	   QP 	 MIQP 	  NLP 	   EP 	  CLP
+	------------------------------------------------------------------------------
+	dqqMinos     	active        	    0 	    - 	    0 	    - 	    - 	    - 	    -
+	glpk         	active        	    1 	    1 	    - 	    - 	    - 	    - 	    -
+	gurobi       	active        	    0 	    0 	    0 	    0 	    - 	    - 	    -
+	lp_solve     	legacy        	    1 	    - 	    - 	    - 	    - 	    - 	    -
+	matlab       	active        	    0 	    - 	    - 	    - 	    0 	    - 	    -
+	mosek        	active        	    0 	    - 	    0 	    - 	    - 	    0 	    0
+	pdco         	active        	    1 	    - 	    1 	    - 	    - 	    1 	    -
+	qpng         	passive       	    - 	    - 	    1 	    - 	    - 	    - 	    -
+	quadMinos    	active        	    0 	    - 	    - 	    - 	    - 	    - 	    -
+	tomlab_snopt 	passive       	    - 	    - 	    - 	    - 	    0 	    - 	    -
+	------------------------------------------------------------------------------
+	Total        	-             	    3 	    1 	    2 	    0 	    0 	    1 	    0
+
+ + Legend: - = not applicable, 0 = solver not compatible or not installed, 1 = solver installed.
+
+
+ > You can solve LP problems using: 'glpk' - 'pdco' 
+ > You can solve MILP problems using: 'glpk' 
+ > You can solve QP problems using: 'pdco' 
+ > You can solve MIQP problems using: 
+ > You can solve NLP problems using: 
+ > You can solve EP problems using: 'pdco' 
+ > You can solve CLP problems using: 
+
+Gurobi installed at this location? 
+Licence file current? 
+Gurobi installed at this location? 
+Licence file current? 
+Gurobi installed at this location? 
+Licence file current? 
+Gurobi installed at this location? 
+Licence file current? 
+> Checking for available updates ... skipped
+removing: C:\cobratoolbox\src\analysis\thermo\componentContribution\new
+removing: C:\cobratoolbox\src\analysis\thermo\groupContribution\new
+removing: C:\cobratoolbox\src\analysis\thermo\inchi\new
+removing: C:\cobratoolbox\src\analysis\thermo\molFiles\new
+removing: C:\cobratoolbox\src\analysis\thermo\protons\new
+removing: C:\cobratoolbox\src\analysis\thermo\trainingModel\new
+One subSystem per reaction, so each model.subSystems{x} is a character array.
+
+===== MODEL LOADED: iCN1361.xml =====
+{Unrecognized field name "grRules".
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('phase1_reconstruction', 'C:\CnecatorGSM\Model\phase1_reconstruction.m', 30)" style="font-weight:bold">phase1_reconstruction</a> (<a href="matlab: opentoline('C:\CnecatorGSM\Model\phase1_reconstruction.m',30,0)">line 30</a>)
+hasGPR = ~cellfun(@isempty, model.grRules);
+                            ^^^^^^^^^^^^^
+} 
+clear all
+phase1_reconstruction
+
+
+      _____   _____   _____   _____     _____     |
+     /  ___| /  _  \ |  _  \ |  _  \   / ___ \    |   COnstraint-Based Reconstruction and Analysis
+     | |     | | | | | |_| | | |_| |  | |___| |   |   The COBRA Toolbox - 2026
+     | |     | | | | |  _  { |  _  /  |  ___  |   |
+     | |___  | |_| | | |_| | | | \ \  | |   | |   |   Documentation:
+     \_____| \_____/ |_____/ |_|  \_\ |_|   |_|   |   http://opencobra.github.io/cobratoolbox
+                                                  | 
+
+ > Checking if git is installed ...  Done (version: 2.56.0).
+ > Checking if the repository is tracked using git ...  Done.
+ > Checking if curl is installed ...  Done.
+ > Checking if remote can be reached ...  Done.
+ > Initializing and updating submodules (this may take a while)... Done.
+ > Adding all the files of The COBRA Toolbox ...  Done.
+ > Define CB map output... set to svg.
+ > TranslateSBML is installed and working properly.
+ > Configuring solver environment variables ...
+   - [*---] ILOG_CPLEX_PATH: --> set this path manually after installing the solver ( see https://opencobra.github.io/cobratoolbox/docs/solvers.html )
+   - [*---] GUROBI_PATH: --> set this path manually after installing the solver ( see https://opencobra.github.io/cobratoolbox/docs/solvers.html )
+   - [*---] TOMLAB_PATH: --> set this path manually after installing the solver ( see https://opencobra.github.io/cobratoolbox/docs/solvers.html )
+   - [*---] MOSEK_PATH: --> set this path manually after installing the solver ( see https://opencobra.github.io/cobratoolbox/docs/solvers.html )
+   Done.
+ > Checking available solvers and solver interfaces ...Could not find installation of dqqMinos, so it cannot be tested
+Gurobi installed at this location? 
+Licence file current? 
+Could not find installation of matlab, so it cannot be tested
+Could not find installation of mosek, so it cannot be tested
+Could not find installation of quadMinos, so it cannot be tested
+Could not find installation of tomlab_snopt, so it cannot be tested
+ Done.
+ > Setting default solvers ...Could not find installation of mosek, so it cannot be tested
+Could not find installation of mosek, so it cannot be tested
+Could not find installation of matlab, so it cannot be tested
+ Done.
+ > Saving the MATLAB path ... Done.
+   - The MATLAB path was saved in the default location.
+
+ > Summary of available solvers and solver interfaces
+
+					Support           LP 	 MILP 	   QP 	 MIQP 	  NLP 	   EP 	  CLP
+	------------------------------------------------------------------------------
+	dqqMinos     	active        	    0 	    - 	    0 	    - 	    - 	    - 	    -
+	glpk         	active        	    1 	    1 	    - 	    - 	    - 	    - 	    -
+	gurobi       	active        	    0 	    0 	    0 	    0 	    - 	    - 	    -
+	lp_solve     	legacy        	    1 	    - 	    - 	    - 	    - 	    - 	    -
+	matlab       	active        	    0 	    - 	    - 	    - 	    0 	    - 	    -
+	mosek        	active        	    0 	    - 	    0 	    - 	    - 	    0 	    0
+	pdco         	active        	    1 	    - 	    1 	    - 	    - 	    1 	    -
+	qpng         	passive       	    - 	    - 	    1 	    - 	    - 	    - 	    -
+	quadMinos    	active        	    0 	    - 	    - 	    - 	    - 	    - 	    -
+	tomlab_snopt 	passive       	    - 	    - 	    - 	    - 	    0 	    - 	    -
+	------------------------------------------------------------------------------
+	Total        	-             	    3 	    1 	    2 	    0 	    0 	    1 	    0
+
+ + Legend: - = not applicable, 0 = solver not compatible or not installed, 1 = solver installed.
+
+
+ > You can solve LP problems using: 'glpk' - 'pdco' 
+ > You can solve MILP problems using: 'glpk' 
+ > You can solve QP problems using: 'pdco' 
+ > You can solve MIQP problems using: 
+ > You can solve NLP problems using: 
+ > You can solve EP problems using: 'pdco' 
+ > You can solve CLP problems using: 
+
+Gurobi installed at this location? 
+Licence file current? 
+Gurobi installed at this location? 
+Licence file current? 
+Gurobi installed at this location? 
+Licence file current? 
+Gurobi installed at this location? 
+Licence file current? 
+> Checking for available updates ... skipped
+removing: C:\cobratoolbox\src\analysis\thermo\componentContribution\new
+removing: C:\cobratoolbox\src\analysis\thermo\groupContribution\new
+removing: C:\cobratoolbox\src\analysis\thermo\inchi\new
+removing: C:\cobratoolbox\src\analysis\thermo\molFiles\new
+removing: C:\cobratoolbox\src\analysis\thermo\protons\new
+removing: C:\cobratoolbox\src\analysis\thermo\trainingModel\new
+One subSystem per reaction, so each model.subSystems{x} is a character array.
+
+===== MODEL LOADED: iCN1361.xml =====
+Fields present in model: S, mets, b, csense, rxns, lb, ub, c, osenseStr, genes, rules, geneNames, compNames, comps, proteins, metCharges, metFormulas, metNames, metHMDBID, metInChIString, metKEGGID, metChEBIID, metMetaNetXID, metSEEDID, metBiGGID, metBioCycID, metSBOTerms, geneEntrezID, geneUniprotID, geneEcoGeneID, geneKEGGID, rxnNames, rxnECNumbers, rxnKEGGID, rxnBioCycID, rxnRheaID, rxnBiGGID, rxnSBOTerms, description, modelVersion, modelID, metis__124__Wikipedia__124__ID, metisbiggID, metiscasID, metischemspiderID, metisdrugbankID, metiskegg__45__glycanID, metisknapsackID, metislipid_mapsID, metismetabolightsID, metismetnetx__46__chemicalID, metisnciID, metispubchemID, metisrefmetID, metisum__45__bbd__45__cpdID, proteinisecogeneID, proteiniskegg__46__genesID, proteinisncbigeneID, proteinisncbiproteinID, proteinisuniprotID, rxnisenz_nameID, rxnispirID
+Genes found in SBML file      : 1362
+Reactions with a gene rule    : 1100
+
+===== RECONSTRUCTION STATISTICS =====
+Metabolites (m)          : 1265
+Reactions (n)            : 1292
+Genes                    : 1362
+Exchange/boundary rxns   : 98
+Internal reactions       : 1194
+Reversible reactions     : 571
+Irreversible reactions   : 721
+Reactions with GPR rule  : 1100
+Reactions without gene   : 192
+Compartments             : c, p, e
+
+===== STOICHIOMETRIC MATRIX =====
+Size of S (m x n)        : 1265 x 1292
+Total entries            : 1634380
+Non-zero entries         : 5732
+Zero entries             : 1628648
+Sparsity (% zeros)       : 99.649 %
+Negative entries (used)  : 2742
+Positive entries (made)  : 2990
+Avg metabolites/reaction : 4.44
+Rank of S                : 1058
+Degrees of freedom (n-r) : 234
+Distinct coefficient values in S: [-30.2922 -24.88215 -9 -8 -7 -6 -5 -4 -3 -2 -1 -0.66605 -0.62425 -0.54835 -0.5 -0.4202 -0.37785 -0.2871 -0.2816 -0.2508 -0.2365 -0.23155 -0.20295 -0.1996 -0.1683 -0.15 -0.1494 -0.12265 -0.1221 -0.10395 -0.08745 -0.06325 -0.0538687561 -0.032674 -0.0218342439 -0.0207076229 -0.017484 -0.013436646 -0.0123041951 -0.01213877 -0.008490722 -0.007104123 -0.006765696 -0.006617783 -0.0062919047 -0.0055441039 -0.004882177 -0.004528835 -0.0044 -0.00412598 -0.00405194 -0.003929263 -0.003828807 -0.0037522755 -0.0025886919 -0.0020921778 -0.0016956565 -0.0012405406 -0.0008561755 -0.00066170685 -0.0005580437 -0.0003415286 -0.0003226345 -0.000298235 -0.0002749953 -0.0002024244 -0.0001033212 -9.85276720416112e-05 -9.079e-05 -8.39983109619632e-05 -6.65964199887503e-05 -3.4592723045332e-05 -3.2503e-05 -3.0099e-05 -2.77001160042504e-05 0.7525516 1 2 3 4 5 6 7 8 9 11 30.166]
+
+===== TOP 20 HUB METABOLITES =====
+M_PROTON[c]                         H<SUP>+</SUP>                            649 rxns
+M_WATER[c]                          H<sub>2</sub>O                           429 rxns
+M_NAD[c]                            NAD<sup>+</sup>                          174 rxns
+M_NADH[c]                           NADH                                     170 rxns
+M_ATP[c]                            ATP                                      140 rxns
+M_Pi[c]                             phosphate                                121 rxns
+M_CARBON_DIOXIDE[c]                 CO<SUB>2</SUB>                           119 rxns
+M_PPI[c]                            diphosphate                              97 rxns
+M_NADP[c]                           NADP<sup>+</sup>                         97 rxns
+M_NADPH[c]                          NADPH                                    95 rxns
+M_ADP[c]                            ADP                                      91 rxns
+M_OXYGEN_MOLECULE[c]                oxygen                                   81 rxns
+M_CO_A[c]                           coenzyme A                               77 rxns
+M_AMMONIUM[c]                       ammonium                                 65 rxns
+M_GLT[c]                            L-glutamate                              50 rxns
+M_AMP[c]                            AMP                                      49 rxns
+M_ACETYL_COA[c]                     acetyl-CoA                               42 rxns
+M_ACP[c]                            M_M_ACP                                  42 rxns
+M_PYRUVATE[c]                       pyruvate                                 39 rxns
+M_2_KETOGLUTARATE[c]                2-oxoglutarate                           30 rxns
+
+===== EXCHANGE REACTIONS (default bounds) =====
+EX_TYR_e                                 LB=    0.00 UB= 1000.00  M_TYR[c]  -> 
+EX_FORMATE_e                             LB=    0.00 UB= 1000.00  M_FORMATE[c]  -> 
+EX_PHB_e                                 LB=    0.00 UB= 1000.00  M_Poly_Hydroxybutyrate[c]  -> 
+EX_URACIL_e                              LB=    0.00 UB= 1000.00  M_URACIL[c]  -> 
+EX_XANTHINE_e                            LB=    0.00 UB= 1000.00  M_XANTHINE[c]  -> 
+EX_OXYGEN_MOLECULE_e                     LB=-1000.00 UB= 1000.00  M_OXYGEN_MOLECULE[c]  <=> 
+EX_PHE_e                                 LB=    0.00 UB= 1000.00  M_PHE[c]  -> 
+EX_AMMONIUM_e                            LB=-1000.00 UB= 1000.00  M_AMMONIUM[c]  <=> 
+EX_THR_e                                 LB=    0.00 UB= 1000.00  M_THR[c]  -> 
+EX_PROPIONATE_e                          LB=    0.00 UB= 1000.00  M_PROPIONATE[c]  -> 
+EX_D_ALANINE_e                           LB=    0.00 UB= 1000.00  M_D_ALANINE[c]  -> 
+EX_WATER_e                               LB=    0.00 UB= 1000.00  M_WATER[c]  -> 
+EX_VAL_e                                 LB=    0.00 UB= 1000.00  M_VAL[c]  -> 
+EX_SUC_e                                 LB=    0.00 UB= 1000.00  M_SUC[c]  -> 
+EX_PROTON_e                              LB=    0.00 UB= 1000.00  M_PROTON[c]  -> 
+EX_ARG_e                                 LB=    0.00 UB= 1000.00  M_ARG[c]  -> 
+EX_LEU_e                                 LB=    0.00 UB= 1000.00  M_LEU[c]  -> 
+EX_ETOH_e                                LB=    0.00 UB= 1000.00  M_ETOH[c]  -> 
+EX_ACET_e                                LB=    0.00 UB= 1000.00  M_ACET[c]  -> 
+EX_CARBON_DIOXIDE_e                      LB=    0.00 UB= 1000.00  M_CARBON_DIOXIDE[c]  -> 
+EX_HYDROGEN_MOLECULE_e                   LB=    0.00 UB= 1000.00  M_HYDROGEN_MOLECULE[c]  -> 
+EX_SULFATE_e                             LB=-1000.00 UB= 1000.00  M_SULFATE[c]  <=> 
+EX_Pi_e                                  LB=-1000.00 UB= 1000.00  M_Pi[c]  <=> 
+EX_CYS_e                                 LB=    0.00 UB= 1000.00  M_CYS[c]  -> 
+EX_LYS_e                                 LB=    0.00 UB= 1000.00  M_LYS[c]  -> 
+EX_TRP_e                                 LB=    0.00 UB= 1000.00  M_TRP[c]  -> 
+EX_CARBON_MONOXIDE_e                     LB=    0.00 UB= 1000.00  M_CARBON_MONOXIDE[c]  -> 
+EX_GLN_e                                 LB=    0.00 UB= 1000.00  M_GLN[c]  -> 
+EX_PRO_e                                 LB=    0.00 UB= 1000.00  M_PRO[c]  -> 
+EX_SER_e                                 LB=    0.00 UB= 1000.00  M_SER[c]  -> 
+EX_BETA_D_FRUCTOSE_e                     LB=   -2.60 UB=   -2.60  M_BETA_D_FRUCTOSE_e[e]  <=> 
+EX_HIS_e                                 LB=    0.00 UB= 1000.00  M_HIS[c]  -> 
+EX_UREA_e                                LB=    0.00 UB= 1000.00  M_UREA[c]  -> 
+EX_GLT_e                                 LB=    0.00 UB= 1000.00  M_GLT[c]  -> 
+EX_HYPOXANTHINE_e                        LB=    0.00 UB= 1000.00  M_HYPOXANTHINE[c]  -> 
+EX_L_ASPARTATE_e                         LB=    0.00 UB= 1000.00  M_L_ASPARTATE[c]  -> 
+EX_THYMINE_e                             LB=    0.00 UB= 1000.00  M_THYMINE[c]  -> 
+EX_GLYCEROL_e                            LB=    0.00 UB= 1000.00  M_GLYCEROL[c]  -> 
+EX_BUTYRIC_ACID_e                        LB=    0.00 UB= 1000.00  M_BUTYRIC_ACID[c]  -> 
+EX_L_ALPHA_ALANINE_e                     LB=    0.00 UB= 1000.00  M_L_ALPHA_ALANINE[c]  -> 
+EX_D_LACTATE_e                           LB=    0.00 UB= 1000.00  M_D_LACTATE[c]  -> 
+EX_PYRUVATE_e                            LB=    0.00 UB= 1000.00  M_PYRUVATE[c]  -> 
+EX_GLY_e                                 LB=    0.00 UB= 1000.00  M_GLY[c]  -> 
+EX_MET_e                                 LB=    0.00 UB= 1000.00  M_MET[c]  -> 
+EX_FE2_e                                 LB=-1000.00 UB= 1000.00  M_FE2[c]  <=> 
+EX_MG2_e                                 LB=    0.00 UB= 1000.00  M_MG2[c]  -> 
+EX_CH33ADO_e                             LB=    0.00 UB= 1000.00  M_CH33ADO[c]  -> 
+Chloride_sink                            LB=    0.00 UB= 1000.00  M_CL_[c]  -> 
+Fluoride_sink                            LB=    0.00 UB= 1000.00  M_fluoride[c]  -> 
+EX_NITROGEN_MOLECULE_e                   LB=    0.00 UB= 1000.00  M_NITROGEN_MOLECULE_p[c]  -> 
+EX_NO3_e                                 LB=    0.00 UB= 1000.00  M_NITRATE_p[c]  -> 
+EX_NO2_e                                 LB=    0.00 UB= 1000.00  M_NITRITE_p[c]  -> 
+EX_MAL_e                                 LB=    0.00 UB=    0.00  M_MAL[c]  -> 
+EX_2_PG_e                                LB=    0.00 UB=    0.00  M_2_PG[c]  -> 
+EX_3_HYDROXYBENZOATE_e                   LB=    0.00 UB=    0.00  M_3_HYDROXYBENZOATE[c]  -> 
+EX_CPD_335_e                             LB=    0.00 UB=    0.00  M_CPD_335[c]  -> 
+EX_G3P_e                                 LB=    0.00 UB=    0.00  M_G3P[c]  -> 
+EX_CPD_108_e                             LB=    0.00 UB=    0.00  M_CPD_108[c]  -> 
+EX_4_FLUOROBENZOATE_e                    LB=    0.00 UB=    0.00  M_4_FLUOROBENZOATE[c]  -> 
+EX_4_hydroxybenzoate_e                   LB=    0.00 UB=    0.00  M_4_hydroxybenzoate[c]  -> 
+EX_6_CHQ_e                               LB=    0.00 UB=    0.00  M_6_CHQ[c]  -> 
+EX_ADIPATE_e                             LB=    0.00 UB=    0.00  M_ADIPATE[c]  -> 
+EX_2_HYDROXYBUTANOIC_ACID_e              LB=    0.00 UB=    0.00  M_2_HYDROXYBUTANOIC_ACID[c]  -> 
+EX_2_OXOBUTANOATE_e                      LB=    0.00 UB=    0.00  M_2_OXOBUTANOATE[c]  -> 
+EX_ANTHRANILATE_e                        LB=    0.00 UB=    0.00  M_ANTHRANILATE[c]  -> 
+EX_BENZOATE_e                            LB=    0.00 UB=    0.00  M_BENZOATE[c]  -> 
+EX_PHENYLGLYOXYLATE_e                    LB=    0.00 UB=    0.00  M_PHENYLGLYOXYLATE[c]  -> 
+EX_BENZALDEHYDE_e                        LB=    0.00 UB=    0.00  M_BENZALDEHYDE[c]  -> 
+EX_BIPHENYL_23_DIOL_e                    LB=    0.00 UB=    0.00  M_BIPHENYL_23_DIOL[c]  -> 
+EX_CATECHOL_e                            LB=    0.00 UB=    0.00  M_CATECHOL[c]  -> 
+EX_CIS_CIS_MUCONATE_e                    LB=    0.00 UB=    0.00  M_CIS_CIS_MUCONATE[c]  -> 
+EX_CIS_ACONITATE_e                       LB=    0.00 UB=    0.00  M_CIS_ACONITATE[c]  -> 
+EX_CIT_e                                 LB=    0.00 UB=    0.00  M_CIT[c]  -> 
+EX_GLUCONATE_e                           LB=    0.00 UB=    0.00  M_GLUCONATE[c]  -> 
+EX_L_LACTATE_e                           LB=    0.00 UB=    0.00  M_L_LACTATE[c]  -> 
+EX_FUM_e                                 LB=    0.00 UB=    0.00  M_FUM[c]  -> 
+EX_4_HYDROXY_BUTYRATE_e                  LB=    0.00 UB=    0.00  M_4_HYDROXY_BUTYRATE[c]  -> 
+EX_CPD_633_e                             LB=    0.00 UB=    0.00  M_CPD_633[c]  -> 
+EX_GLYCOLLATE_e                          LB=    0.00 UB=    0.00  M_GLYCOLLATE[c]  -> 
+EX_GLYOX_e                               LB=    0.00 UB=    0.00  M_GLYOX[c]  -> 
+EX_THREO_DS_ISO_CITRATE_e                LB=    0.00 UB=    0.00  M_THREO_DS_ISO_CITRATE[c]  -> 
+EX_KYNURENATE_e                          LB=    0.00 UB=    0.00  M_KYNURENATE[c]  -> 
+EX_CPD_14736_e                           LB=    0.00 UB=    0.00  M_CPD_14736[c]  -> 
+EX_CPD_741_e                             LB=    0.00 UB=    0.00  M_CPD_741[c]  -> 
+EX_CPD_7836_e                            LB=    0.00 UB=    0.00  M_CPD_7836[c]  -> 
+EX_NIACINE_e                             LB=    0.00 UB=    0.00  M_NIACINE[c]  -> 
+EX_OLEATE_CPD_e                          LB=    0.00 UB=    0.00  M_OLEATE_CPD[c]  -> 
+EX_PALMITATE_e                           LB=    0.00 UB=    0.00  M_PALMITATE[c]  -> 
+EX_PHENOL_e                              LB=    0.00 UB=    0.00  M_PHENOL[c]  -> 
+EX_PHENYLACETATE_e                       LB=    0.00 UB=    0.00  M_PHENYLACETATE[c]  -> 
+EX_4_HYDROXYPHENYLACETATE_e              LB=    0.00 UB=    0.00  M_4_HYDROXYPHENYLACETATE[c]  -> 
+EX_3_4_DIHYDROXYBENZOATE_e               LB=    0.00 UB=    0.00  M_3_4_DIHYDROXYBENZOATE[c]  -> 
+EX_UROCANATE_e                           LB=    0.00 UB=    0.00  M_UROCANATE[c]  -> 
+EX_ACETOIN_e                             LB=    0.00 UB=    0.00  M_ACETOIN[c]  -> 
+EX_N_ACETYL_D_GLUCOSAMINE_e              LB=    0.00 UB=    0.00  M_N_ACETYL_D_GLUCOSAMINE_e[c]  -> 
+EX_ASN_e                                 LB=    0.00 UB= 1000.00  M_ASN[c]  -> 
+EX_ILE_e                                 LB=    0.00 UB= 1000.00  M_ILE[c]  -> 
+EX_NO_e                                  LB=    0.00 UB= 1000.00  M_NITRIC_OXIDE[c]  -> 
+
+===== KEY PATHWAY REACTIONS =====
+
+### CBB: RuBisCO  (1 hits)
+R_RIBULOSE_BISPHOSPHATE_CARBOXYLASE_RXN  | RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN | GPR: (( H16_B1394 and H16_B1395 ) or ( PHG426 and PHG427 )) | 2 M_G3P[c] + 2 M_PROTON[c]  <=> M_WATER[c] + M_CARBON_DIOXIDE[c] + M_D_RIBULOSE_15_P2[c] 
+
+### CBB: Phosphoribulokinase  (1 hits)
+R_PHOSPHORIBULOKINASE_RXN                | PHOSPHORIBULOKINASE-RXN | GPR: ( PHG421 or H16_B1389 ) | M_ATP[c] + M_RIBULOSE_5P[c]  <=> M_ADP[c] + M_PROTON[c] + M_D_RIBULOSE_15_P2[c] 
+
+### H2: Hydrogenase  (55 hits)
+R_SHIKIMATE_5_DEHYDROGENASE_RXN          | SHIKIMATE-5-DEHYDROGENASE-RXN | GPR: H16_A3161 | M_SHIKIMATE[c] + M_NADP[c]  <=> M_PROTON[c] + M_NADPH[c] + M_3_DEHYDRO_SHIKIMATE[c] 
+R_PYRROLINECARBDEHYDROG_RXN              | PYRROLINECARBDEHYDROG-RXN | GPR: H16_A3631 | M_L_DELTA1_PYRROLINE_5_CARBOXYLATE[c] + 2 M_WATER[c] + M_NAD[c]  -> M_NADH[c] + M_GLT[c] + M_PROTON[c] 
+R_IMP_DEHYDROG_RXN                       | IMP-DEHYDROG-RXN | GPR: ( H16_A2030 or H16_A0062 ) | M_WATER[c] + M_NAD[c] + M_IMP[c]  <=> M_NADH[c] + M_XANTHOSINE_5_PHOSPHATE[c] + M_PROTON[c] 
+R_GLYCOLALD_DEHYDROG_RXN                 | GLYCOLALD-DEHYDROG-RXN | GPR:  | M_GLYCOLALDEHYDE[c] + M_WATER[c] + M_NAD[c]  <=> M_NADH[c] + M_GLYCOLLATE[c] + 2 M_PROTON[c] 
+R_GLU6PDEHYDROG_RXN                      | GLU6PDEHYDROG-RXN | GPR: ( H16_B2566 or H16_B1501 or H16_A0316 ) | M_GLC_6_P[c] + M_NADP[c]  <=> M_D_6_P_GLUCONO_DELTA_LACTONE[c] + M_PROTON[c] + M_NADPH[c] 
+R_MBH_HYDROGENASE                        | MBH_HYDROGENASE | GPR: ( PHG001 and PHG002 and PHG003 ) | M_HYDROGEN_MOLECULE[c] + M_Ubiquinones[c] + 2 M_PROTON[c]  -> M_Ubiquinols[c] + 2 M_PROTON_p[p] 
+R_3_HYDROXYBUTYRATE_DEHYDROGENASE_RXN    | 3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN | GPR: ( H16_A1334 or H16_A1814 ) | M_NAD[c] + M_CPD_335[c]  <=> M_3_KETOBUTYRATE[c] + M_NADH[c] + M_PROTON[c] 
+R_LEUCINE_DEHYDROGENASE_RXN              | LEUCINE-DEHYDROGENASE-RXN | GPR: H16_B0449 | M_WATER[c] + M_NAD[c] + M_LEU[c]  -> M_NADH[c] + M_PROTON[c] + M_AMMONIUM[c] + M_2K_4CH3_PENTANOATE[c] 
+R_HOMOSERDEHYDROG_RXN_NAD                | HOMOSERDEHYDROG-RXN-(NAD) | GPR: H16_A2266 | M_NAD[c] + M_HOMO_SER[c]  <=> M_L_ASPARTATE_SEMIALDEHYDE[c] + M_NADH[c] + M_PROTON[c] 
+R_3_HYDROXYPROPIONATE_DEHYDROGENASE_RXN  | 3-HYDROXYPROPIONATE-DEHYDROGENASE-RXN | GPR:  | M_3_HYDROXY_PROPIONATE[c] + M_NAD[c]  <=> M_NADH[c] + M_PROTON[c] + M_MALONATE_S_ALD[c] 
+R_ERYTH4PDEHYDROG_RXN                    | ERYTH4PDEHYDROG-RXN | GPR:  | M_ERYTHROSE_4P[c] + M_WATER[c] + M_NAD[c]  <=> M_NADH[c] + M_ERYTHRONATE_4P[c] + 2 M_PROTON[c] 
+R_4_HYDROXYBUTYRATE_DEHYDROGENASE_RXN    | 4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN | GPR: H16_A1553 | M_NAD[c] + M_4_HYDROXY_BUTYRATE[c]  <=> M_NADH[c] + M_SUCC_S_ALD[c] + M_PROTON[c] 
+R_HOMOSERDEHYDROG_RXN_NADP               | HOMOSERDEHYDROG-RXN-(NADP) | GPR: H16_A2266 | M_HOMO_SER[c] + M_NADP[c]  <=> M_L_ASPARTATE_SEMIALDEHYDE[c] + M_PROTON[c] + M_NADPH[c] 
+R_3_HYDROXYISOBUTYRATE_DEHYDROGENASE_RXN | 3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN | GPR: ( H16_B2317 or H16_A3004 or H16_B1190 or H16_B1750 or H16_B1657 or H16_A1239 or H16_A1562 ) | M_NAD[c] + M_CPD_12175[c]  <=> M_NADH[c] + M_CPD_12179[c] + M_PROTON[c] 
+R_LACTALDDEHYDROG_RXN                    | LACTALDDEHYDROG-RXN | GPR: H16_A1919 | M_WATER[c] + M_NAD[c] + M_LACTALD[c]  <=> M_NADH[c] + 2 M_PROTON[c] + M_L_LACTATE[c] 
+
+### PHB: beta-ketothiolase phaA  (1 hits)
+R_ACETYL_COA_ACETYLTRANSFER_RXN          | ACETYL-COA-ACETYLTRANSFER-RXN | GPR: ( PHG232 or ( H16_B0380 and H16_B0381 ) or H16_B0406 or ( H16_B0662 and H16_B0668 ) or H16_B0759 or H16_B1369 or H16_B1771 or H16_A0170 or H16_A0462 or ( H16_A0867 and H16_A0868 and H16_A0872 ) or H16_A1297 or H16_A1438 or H16_A1445 or H16_A1528 or H16_A1713 or H16_A1720 or H16_A1887 or H16_A2148 ) | 2 M_ACETYL_COA[c]  <=> M_CO_A[c] + M_ACETOACETYL_COA[c] 
+
+### PHB: reductase phaB  (0 hits)
+
+### PHB: synthase phaC  (57 hits)
+R_PHOSPHASERSYN_RXN_C14                  | PHOSPHASERSYN-RXN_C14 | GPR: ( H16_B1122 or H16_A1039 ) | M_CDPDIACYLGLYCEROL_C14[c] + M_SER[c]  -> M_CMP[c] + M_L_1_PHOSPHATIDYL_SERINE_C14[c] + M_PROTON[c] 
+EX_PHB_e                                 | PHB transporter | GPR:  | M_Poly_Hydroxybutyrate[c]  -> 
+R_PHOSPHASERDECARB_RXN_C18               | PHOSPHASERDECARB-RXN_C18 | GPR: H16_A1038 | M_L_1_PHOSPHATIDYL_SERINE_C18[c] + M_PROTON[c]  -> M_CARBON_DIOXIDE[c] + M_PE_C18[c] 
+R_UNDECAPRENYL_DIPHOSPHATASE_RXN         | UNDECAPRENYL-DIPHOSPHATASE-RXN | GPR: H16_A2871 | M_UNDECAPRENYL_DIPHOSPHATE[c] + M_WATER[c]  -> M_Pi[c] + M_CPD_9646[c] + M_PROTON[c] 
+R_3_HYDROXYBUTYRATE_DEHYDROGENASE_RXN    | 3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN | GPR: ( H16_A1334 or H16_A1814 ) | M_NAD[c] + M_CPD_335[c]  <=> M_3_KETOBUTYRATE[c] + M_NADH[c] + M_PROTON[c] 
+R_PHOSPHAGLYPSYN_RXN_C18                 | PHOSPHAGLYPSYN-RXN_C18 | GPR: H16_A2546 | M_GLYCEROL_3P[c] + M_CDPDIACYLGLYCEROL_C18[c]  -> M_CMP[c] + M_L_1_PHOSPHATIDYL_GLYCEROL_P_C18[c] + M_PROTON[c] 
+R_RIBOPHOSPHAT_RXN                       | RIBOPHOSPHAT-RXN | GPR:  | M_WATER[c] + M_CPD_1086[c]  <=> M_Pi[c] + M_AMINO_RIBOSYLAMINO_1H_3H_PYR_DIONE[c] 
+R_PHOSPHAGLYPSYN_RXN_C12                 | PHOSPHAGLYPSYN-RXN_C12 | GPR: H16_A2546 | M_GLYCEROL_3P[c] + M_CDPDIACYLGLYCEROL_C12[c]  -> M_CMP[c] + M_PROTON[c] + M_L_1_PHOSPHATIDYL_GLYCEROL_P_C12[c] 
+R_PGPPHOSPHA_RXN_C15                     | PGPPHOSPHA-RXN_C15 | GPR: H16_A3155 | M_WATER[c] + M_L_1_PHOSPHATIDYL_GLYCEROL_P_C15[c]  -> M_Pi[c] + M_PG_C15[c] 
+R_325_BISPHOSPHATE_NUCLEOTIDASE_RXN      | 325-BISPHOSPHATE-NUCLEOTIDASE-RXN | GPR:  | M_WATER[c] + M_3_5_ADP[c]  -> M_AMP[c] + M_Pi[c] 
+R_PHOSPHASERSYN_RXN_C17                  | PHOSPHASERSYN-RXN_C17 | GPR: ( H16_B1122 or H16_A1039 ) | M_SER[c] + M_CDPDIACYLGLYCEROL_C17[c]  -> M_CMP[c] + M_L_1_PHOSPHATIDYL_SERINE_C17[c] + M_PROTON[c] 
+R_NADPYROPHOSPHAT_RXN                    | NADPYROPHOSPHAT-RXN | GPR: H16_A2761 | M_WATER[c] + M_NAD[c]  <=> M_AMP[c] + M_NICOTINAMIDE_NUCLEOTIDE[c] + 2 M_PROTON[c] 
+R_PGPPHOSPHA_RXN_C161                    | PGPPHOSPHA-RXN_C161 | GPR: H16_A3155 | M_WATER[c] + M_L_1_PHOSPHATIDYL_GLYCEROL_P_C16_1[c]  -> M_Pi[c] + M_PG_C16_1[c] 
+R_PGPPHOSPHA_RXN_C17                     | PGPPHOSPHA-RXN_C17 | GPR: H16_A3155 | M_WATER[c] + M_L_1_PHOSPHATIDYL_GLYCEROL_P_C17[c]  -> M_Pi[c] + M_PG_C17[c] 
+R_PGPPHOSPHA_RXN_C181                    | PGPPHOSPHA-RXN_C181 | GPR: H16_A3155 | M_WATER[c] + M_L_1_PHOSPHATIDYL_GLYCEROL_P_C18_1[c]  -> M_Pi[c] + M_PG_C18_1[c] 
+
+### PHB: depolymerase phaZ  (0 hits)
+
+### Anaplerotic: PEP carboxylase  (2 hits)
+R_PEPCARBOX_RXN                          | PEPCARBOX-RXN | GPR: H16_A2921 | M_Pi[c] + M_OXALACETIC_ACID[c]  <=> M_HCO3[c] + M_PHOSPHO_ENOL_PYRUVATE[c] 
+R_PEPCARBOX_RXN2                         | PEPCARBOX-RXN2 | GPR: H16_A2921 | M_Pi[c] + M_OXALACETIC_ACID[c] + M_PROTON[c]  <=> M_WATER[c] + M_CARBON_DIOXIDE[c] + M_PHOSPHO_ENOL_PYRUVATE[c] 
+
+### Anaplerotic: PEP carboxykinase  (0 hits)
+
+### Anaplerotic: Pyruvate carboxyl  (1 hits)
+R_PYRUVATE_CARBOXYLASE_RXN               | PYRUVATE-CARBOXYLASE-RXN | GPR: H16_A1251 | M_ATP[c] + M_PYRUVATE[c] + M_HCO3[c]  -> M_Pi[c] + M_ADP[c] + M_OXALACETIC_ACID[c] + M_PROTON[c] 
+
+### Node: Pyruvate dehydrogenase  (0 hits)
+
+### TCA: Citrate synthase  (1 hits)
+R_CITSYN_RXN                             | CITSYN-RXN | GPR: ( H16_A1229 or H16_A2627 or H16_B0414 or H16_B0357 or H16_B2211 ) | M_WATER[c] + M_OXALACETIC_ACID[c] + M_ACETYL_COA[c]  -> M_CO_A[c] + M_PROTON[c] + M_CIT[c] 
+
+### TCA: Aconitase  (2 hits)
+R_ACONITATEHYDR_RXN                      | ACONITATEHYDR-RXN | GPR: ( H16_A1907 or H16_A2638 or H16_B0568 ) | M_WATER[c] + M_CIS_ACONITATE[c]  <=> M_THREO_DS_ISO_CITRATE[c] 
+R_ACONITATEDEHYDR_RXN                    | ACONITATEDEHYDR-RXN | GPR: ( H16_A1907 or H16_A2638 or H16_B0568 ) | M_CIT[c]  <=> M_WATER[c] + M_CIS_ACONITATE[c] 
+
+### TCA: Isocitrate DH  (1 hits)
+R_ISOCITDEH_RXN                          | ISOCITDEH-RXN | GPR: H16_B1931 | M_THREO_DS_ISO_CITRATE[c] + M_NADP[c]  <=> M_CARBON_DIOXIDE[c] + M_NADPH[c] + M_2_KETOGLUTARATE[c] 
+
+### TCA: 2-oxoglutarate DH  (0 hits)
+
+### TCA: Succinyl-CoA synthetase  (1 hits)
+R_SUCCCOASYN_RXN                         | SUCCCOASYN-RXN | GPR: ( H16_A0547 and H16_A0548 ) | M_ATP[c] + M_CO_A[c] + M_SUC[c]  <=> M_Pi[c] + M_ADP[c] + M_SUC_COA[c] 
+
+### TCA: Succinate DH  (1 hits)
+R_SUCCINATE_DEHYDROGENASE_UBIQUINONE_RXN | SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN | GPR: ( H16_A2630 and H16_A2629 and H16_A2632 and H16_A2631 ) | M_Ubiquinones[c] + M_SUC[c]  -> M_Ubiquinols[c] + M_FUM[c] 
+
+### TCA: Fumarase  (1 hits)
+R_FUMHYDR_RXN                            | FUMHYDR-RXN | GPR: ( H16_B0103 or H16_A2528 ) | M_MAL[c]  <=> M_WATER[c] + M_FUM[c] 
+
+### TCA: Malate DH  (1 hits)
+R_MALATE_DEH_RXN                         | MALATE-DEH-RXN | GPR: ( H16_A2634 or H16_B0334 or H16_A1256 ) | M_MAL[c] + M_NAD[c]  <=> M_NADH[c] + M_OXALACETIC_ACID[c] + M_PROTON[c] 
+
+### Glyoxylate: Isocitrate lyase  (1 hits)
+R_ISOCIT_CLEAV_RXN                       | ISOCIT-CLEAV-RXN | GPR: ( H16_A2227 or H16_A2211 ) | M_THREO_DS_ISO_CITRATE[c]  -> M_GLYOX[c] + M_SUC[c] 
+
+### Glyoxylate: Malate synthase  (1 hits)
+R_MALSYN_RXN                             | MALSYN-RXN | GPR: H16_A2217 | M_GLYOX[c] + M_WATER[c] + M_ACETYL_COA[c]  -> M_MAL[c] + M_CO_A[c] + M_PROTON[c] 
+
+### Succinate transport/exchange  (12 hits)
+R_ARGSUCCINSYN_RXN                       | ARGSUCCINSYN-RXN | GPR: H16_B2531 | M_ATP[c] + M_L_ASPARTATE[c] + M_L_CITRULLINE[c]  -> M_AMP[c] + M_PPI[c] + M_L_ARGININO_SUCCINATE[c] + M_PROTON[c] 
+R_SUCCGLUALDDEHYD_RXN                    | SUCCGLUALDDEHYD-RXN | GPR: ( H16_A3345 or H16_B1917 or H16_B1835 ) | M_WATER[c] + M_NAD[c] + M_CPD_822[c]  <=> M_N2_SUCCINYLGLUTAMATE[c] + M_NADH[c] + 2 M_PROTON[c] 
+EX_SUC_e                                 | SUC transporter | GPR:  | M_SUC[c]  -> 
+R_HOMSUCTRAN_RXN                         | HOMSUCTRAN-RXN | GPR:  | M_HOMO_SER[c] + M_SUC_COA[c]  <=> M_CO_A[c] + M_O_SUCCINYL_L_HOMOSERINE[c] 
+R_SUCCINATE_DEHYDROGENASE_UBIQUINONE_RXN | SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN | GPR: ( H16_A2630 and H16_A2629 and H16_A2632 and H16_A2631 ) | M_Ubiquinones[c] + M_SUC[c]  -> M_Ubiquinols[c] + M_FUM[c] 
+R_SUCCGLUDESUCC_RXN                      | SUCCGLUDESUCC-RXN | GPR: H16_A0092 | M_N2_SUCCINYLGLUTAMATE[c] + M_WATER[c]  <=> M_GLT[c] + M_SUC[c] 
+R_SUCCINYLDIAMINOPIMTRANS_RXN            | SUCCINYLDIAMINOPIMTRANS-RXN | GPR: ( H16_A2065 or H16_A3025 ) | M_N_SUCCINYLLL_2_6_DIAMINOPIMELATE[c] + M_2_KETOGLUTARATE[c]  <=> M_GLT[c] + M_N_SUCCINYL_2_AMINO_6_KETOPIMELATE[c] 
+R_SUCCDIAMINOPIMDESUCC_RXN               | SUCCDIAMINOPIMDESUCC-RXN | GPR: H16_A2069 | M_WATER[c] + M_N_SUCCINYLLL_2_6_DIAMINOPIMELATE[c]  <=> M_SUC[c] + M_LL_DIAMINOPIMELATE[c] 
+R_ARGSUCCINLYA_RXN                       | ARGSUCCINLYA-RXN | GPR: H16_A2925 | M_L_ARGININO_SUCCINATE[c]  <=> M_ARG[c] + M_FUM[c] 
+R_SUCCCOASYN_RXN                         | SUCCCOASYN-RXN | GPR: ( H16_A0547 and H16_A0548 ) | M_ATP[c] + M_CO_A[c] + M_SUC[c]  <=> M_Pi[c] + M_ADP[c] + M_SUC_COA[c] 
+R_TETHYDPICSUCC_RXN                      | TETHYDPICSUCC-RXN | GPR: H16_A2066 | M_WATER[c] + M_DELTA1_PIPERIDEINE_2_6_DICARBOXYLATE[c] + M_SUC_COA[c]  <=> M_CO_A[c] + M_N_SUCCINYL_2_AMINO_6_KETOPIMELATE[c] 
+R_ADENYLOSUCCINATE_SYNTHASE_RXN          | ADENYLOSUCCINATE-SYNTHASE-RXN | GPR: ( H16_A2354 or H16_B1994 ) | M_GTP[c] + M_IMP[c] + M_L_ASPARTATE[c]  -> M_GDP[c] + M_Pi[c] + M_ADENYLOSUCC[c] + 2 M_PROTON[c] 
+
+### Biomass  (1 hits)
+R_Biomass                                | Biomass | GPR:  | 3.0099e-05 M_CLPN_C15[c] + 0.000341529 M_PE_C12[c] + 0.20295 M_ASN[c] + 0.1494 M_UTP[c] + 30.2922 M_ATP[c] + 0.0123042 M_PE_C16[c] + 0.1996 M_CTP[c] + 0.0044 M_TRP[c] + 0.00661778 M_FMN[c] + 0.2508 M_ARG[c] + 0.10395 M_LYS[c] + 24.8821 M_WATER[c] + 0.00392926 M_CO_A[c] + 0.62425 M_GLY[c] + 0.00124054 M_CLPN_C16[c] + 0.00452884 M_NAD[c] + 0.06325 M_CYS[c] + 0.2816 M_GLT[c] + 6.65964e-05 M_CLPN_C18[c] + 0.12265 M_HIS[c] + 0.15 M_GTP[c] + 0.000202424 M_PG_C18[c] + 0.000322634 M_PE_C17_1[c] + 0.0067657 M_THF[c] + 0.017484 M_DATP[c] + 0.2816 M_GLN[c] + 0.54835 M_PRO[c] + 0.2871 M_LEU[c] + 0.0134366 M_KDO2_LIPID_A[c] + 0.20295 M_L_ASPARTATE[c] + 9.85277e-05 M_PG_C17_1[c] + 3.2503e-05 M_CLPN_C17_1[c] + 0.00169566 M_PG_C18_1[c] + 0.4202 M_THR[c] + 0.37785 M_VAL[c] + 2.77001e-05 M_CLPN_C17[c] + 0.00710412 M_THIAMINE_PYROPHOSPHATE[c] + 0.000298235 M_PE_C15[c] + 8.39983e-05 M_PG_C17[c] + 0.00382881 M_FAD[c] + 0.00209218 M_CLPN_C14[c] + 0.00412598 M_Ubiquinones[c] + 0.0055441 M_PE_C18_1[c] + 0.032674 M_DGTP[c] + 0.1683 M_ILE[c] + 0.0207076 M_PE_C14[c] + 0.2365 M_PHE[c] + 0.0538688 M_CARBS[c] + 0.00258869 M_PG_C16_1[c] + 0.0062919 M_PG_C14[c] + 0.0218342 M_PEPTIDOGLYCAN[c] + 0.0121388 M_PYRIDOXAL_PHOSPHATE[c] + 0.017484 M_TTP[c] + 0.000661707 M_PE_C18[c] + 9.079e-05 M_PG_C15[c] + 0.032674 M_DCTP[c] + 0.00488218 M_PROTOHEME[c] + 0.000274995 M_PE_C17[c] + 0.23155 M_SER[c] + 0.66605 M_L_ALPHA_ALANINE[c] + 0.000856175 M_CLPN_C16_1[c] + 0.1221 M_TYR[c] + 0.00849072 M_PE_C16_1[c] + 0.000558044 M_CLPN_C18_1[c] + 0.08745 M_MET[c] + 0.00375228 M_PG_C16[c] + 3.45927e-05 M_CLPN_C12[c] + 0.000103321 M_PG_C12[c] + 0.00405194 M_NADP[c]  -> 30.166 M_Pi[c] + 0.752552 M_PPI[c] + 30.166 M_ADP[c] + 30.166 M_PROTON[c] 
+
+### Maintenance ATPM  (1 hits)
+R_ATPM                                   | ATP maintenance requirement | GPR:  | M_ATP[c] + M_WATER[c]  -> M_Pi[c] + M_ADP[c] + M_PROTON[c] 
+
+### CO2 / H2 / O2 / fructose  (10 hits)
+EX_OXYGEN_MOLECULE_e                     | O2 transporter | GPR:  | M_OXYGEN_MOLECULE[c]  <=> 
+R_L_GLN_FRUCT_6_P_AMINOTRANS_RXN         | L-GLN-FRUCT-6-P-AMINOTRANS-RXN | GPR: H16_A0263 | M_GLN[c] + M_FRUCTOSE_6P[c]  <=> M_D_GLUCOSAMINE_6_P[c] + M_GLT[c] 
+R_RXN3O_218                              | RXN3O-218 | GPR: ( H16_A2339 or H16_A2293 ) | M_OXYGEN_MOLECULE[c] + M_EPISTEROL[c] + M_PROTON[c] + M_NADPH[c]  -> 2 M_WATER[c] + M_CPD_700[c] + M_NADP[c] 
+R_FRUPTS                                 | Fructose PTS transporter | GPR:  | M_PHOSPHO_ENOL_PYRUVATE[c] + M_BETA_D_FRUCTOSE_e[e]  -> M_FRUCTOSE_6P[c] + M_PYRUVATE[c] 
+R_FRUCTOKINASE_RXN                       | FRUCTOKINASE-RXN | GPR: H16_B1503 | M_BETA_D_FRUCTOSE[c] + M_ATP[c]  <=> M_ADP[c] + M_FRUCTOSE_6P[c] + M_PROTON[c] 
+EX_CARBON_DIOXIDE_e                      | CO2 transporter | GPR:  | M_CARBON_DIOXIDE[c]  -> 
+EX_HYDROGEN_MOLECULE_e                   | H2 transporter | GPR:  | M_HYDROGEN_MOLECULE[c]  -> 
+EX_BETA_D_FRUCTOSE_e                     | FRU transporter | GPR:  | M_BETA_D_FRUCTOSE_e[e]  <=> 
+R_FRUABC                                 | Fructose ABC transporter | GPR:  | M_ATP[c] + M_WATER[c] + M_BETA_D_FRUCTOSE_e[e]  -> M_BETA_D_FRUCTOSE[c] + M_Pi[c] + M_ADP[c] + M_PROTON[c] 
+EX_NO2_e                                 | Nitrite transport | GPR:  | M_NITRITE_p[c]  -> 
+
+===== phaCAB OPERON (H16_A1437 / A1438 / A1439) =====
+Gene H16_A1437 controls: R_RXN1_42
+Gene H16_A1438 controls: R_METHYLACETOACETYLCOATHIOL_RXN, R_RXN_12561, R_ACETYL_COA_ACETYLTRANSFER_RXN
+Gene H16_A1439 controls: R_RXN_12560, R_RXN_5901
+
+Succinate sub-matrix saved (24 mets x 6 rxns)
+
+===== DEFAULT FBA =====
+Objective reaction : R_Biomass
+Status             : 1 (1 = optimal)
+Objective value    : 0.258569

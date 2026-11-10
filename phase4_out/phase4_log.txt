@@ -1,0 +1,67 @@
+===== SINGLE-KO SUMMARY (from phase3) =====
+Fructose  lethal 150 | non-lethal with effect 310 | no effect 901 | guaranteed SUC>0: 0
+CO2_H2    lethal 164 | non-lethal with effect 296 | no effect 901 | guaranteed SUC>0: 0
+
+Targets 16 -> 120 gene pairs
+
+===== DOUBLE KO: Fructose (WT growth 0.2586) - top 15 =====
+        <strong>Label</strong>        <strong>FBA_growth</strong>    <strong>SUC_max_50pct</strong>    <strong>SUC_guaranteed</strong>    <strong>MOMA_growth</strong>    <strong>MOMA_SUC</strong>
+    <strong>_____________</strong>    <strong>__________</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>___________</strong>    <strong>________</strong>
+
+    {'SDH+SucCD'}     0.18986         2.0903           0.028063         0.13007       1.4307 
+    {'SDH+ICL-1'}     0.18992         2.0903                  0         0.12239       1.7339 
+    {'SDH+ICL-2'}     0.18992         2.0903                  0         0.12239       1.7339 
+    {'SDH+PhaC1'}     0.18992         2.0903                  0         0.12239       1.7339 
+    {'SDH+PhaC2'}     0.18992         2.0903                  0         0.12239       1.7339 
+    {'SDH+PhaB1'}     0.18992         2.0903                  0         0.12239       1.7339 
+    {'SDH+PTA-1'}     0.18992         2.0903                  0         0.12239       1.7339 
+    {'SDH+PTA-2'}     0.18992         2.0903                  0         0.12239       1.7339 
+    {'SDH+ACK-1'}     0.18992         2.0903                  0         0.12239       1.7339 
+    {'SDH+ACK-2'}     0.18992         2.0903                  0         0.12239       1.7339 
+    {'SDH+PYC'  }     0.18519         2.0624                  0         0.12239       1.7339 
+    {'SDH+PEPCK'}     0.18992         2.0903                  0         0.12239       1.7339 
+    {'SDH+PPC'  }     0.18992         2.0903                  0         0.12241       1.7324 
+    {'SDH+MS'   }     0.18992         2.0903                  0         0.14027       1.6343 
+    {'SDH+OGDH' }     0.18992         2.0903                  0         0.13534       1.4879 
+
+Pairs lethal: 1 | pairs with guaranteed SUC > 0: 1 | pairs with MOMA SUC > 0: 15
+
+===== DOUBLE KO: CO2_H2 (WT growth 0.2416) - top 15 =====
+         <strong>Label</strong>         <strong>FBA_growth</strong>    <strong>SUC_max_50pct</strong>    <strong>SUC_guaranteed</strong>    <strong>MOMA_growth</strong>     <strong>MOMA_SUC</strong> 
+    <strong>_______________</strong>    <strong>__________</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>___________</strong>    <strong>__________</strong>
+
+    {'SDH+SucCD'  }     0.23819          1.25            0.035207         0.23799        0.035212
+    {'SDH+PYC'    }      0.2416          1.25                   0          0.2416      4.1164e-06
+    {'SDH+MS'     }      0.2416          1.25                   0          0.2416               0
+    {'SDH+OGDH'   }      0.2416          1.25                   0          0.2416               0
+    {'SDH+PEPCK'  }      0.2416          1.25                   0          0.2416               0
+    {'SDH+PPC'    }      0.2416          1.25                   0          0.2416               0
+    {'SucCD+ICL-1'}      0.2416          1.25                   0          0.2416               0
+    {'SucCD+ICL-2'}      0.2416          1.25                   0          0.2416               0
+    {'SucCD+MS'   }      0.2416          1.25                   0          0.2416               0
+    {'SucCD+PhaC1'}      0.2416          1.25                   0          0.2416               0
+    {'SucCD+PhaC2'}      0.2416          1.25                   0          0.2416               0
+    {'SucCD+PhaB1'}      0.2416          1.25                   0          0.2416               0
+    {'SucCD+PTA-1'}      0.2416          1.25                   0          0.2416               0
+    {'SucCD+PTA-2'}      0.2416          1.25                   0          0.2416               0
+    {'SucCD+ACK-1'}      0.2416          1.25                   0          0.2416               0
+
+Pairs lethal: 1 | pairs with guaranteed SUC > 0: 1 | pairs with MOMA SUC > 0: 2
+
+===== MULTI-GENE DESIGNS =====
+
+-- Fructose --
+Design                     FBA_mu   SUCmax50    SUCguar    MOMA_mu   MOMA_SUC
+Wild type                  0.2586     2.0903     0.0000        NaN        NaN
+SDH+SucCD                  0.1899     2.0903     0.0281     0.1301     1.4307
+SDH+SucCD+PTA(both)        0.1875     2.0903     1.1557     0.1301     1.4307
+SDH+SucCD+ACK(both)        0.1875     2.0903     1.1557     0.1301     1.4307
+SDH+SucCD+PhaC(both)       0.1899     2.0903     0.0281     0.1301     1.4307
+
+-- CO2_H2 --
+Design                     FBA_mu   SUCmax50    SUCguar    MOMA_mu   MOMA_SUC
+Wild type                  0.2416     1.2500     0.0000        NaN        NaN
+SDH+SucCD                  0.2382     1.2500     0.0352     0.2380     0.0352
+SDH+SucCD+PTA(both)        0.2382     1.2500     0.0352     0.2380     0.0352
+SDH+SucCD+ACK(both)        0.2382     1.2500     0.0352     0.2380     0.0352
+SDH+SucCD+PhaC(both)       0.2382     1.2500     0.0352     0.2380     0.0352

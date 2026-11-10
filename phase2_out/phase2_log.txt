@@ -1,0 +1,78 @@
+
+===== WILD-TYPE FBA (COBRA) =====
+Fructose  growth = 0.258569 h^-1  (status 1)
+CO2+H2    growth = 0.241596 h^-1  (status 1)
+
+===== WILD-TYPE FBA (MATLAB linprog) =====
+linprog NOT found -> install "Optimization Toolbox" from Home > Add-Ons
+                      <strong>Reaction</strong>                       <strong>Fructose</strong>       <strong>CO2_H2</strong>  
+    <strong>____________________________________________</strong>    <strong>__________</strong>    <strong>__________</strong>
+
+    {'EX_BETA_D_FRUCTOSE_e'                    }          -2.6             0
+    {'EX_CARBON_DIOXIDE_e'                     }             0           -10
+    {'EX_HYDROGEN_MOLECULE_e'                  }             0           -50
+    {'EX_OXYGEN_MOLECULE_e'                    }       -4.5898       -14.713
+    {'R_Biomass'                               }       0.25857        0.2416
+    {'R_ATPM'                                  }             3             3
+    {'R_HYDROGENASE_SH_NAD'                    }     0.0018369        50.002
+    {'R_MBH_HYDROGENASE'                       }             0             0
+    {'R_RIBULOSE_BISPHOSPHATE_CARBOXYLASE_RXN' }       -1.1099       -10.824
+    {'R_PHOSPHORIBULOKINASE_RXN'               }        1.1099        10.824
+    {'R_KDPGALDOL_RXN'                         }        1.5627             0
+    {'R_RXN0_1134'                             }             0             0
+    {'R_CITSYN_RXN'                            }        2.0689       0.35084
+    {'R_ISOCITDEH_RXN'                         }       -997.93       -999.65
+    {'R_ISOCITRATE_DEHYDROGENASE_NAD_RXN'      }          1000          1000
+    {'R_2OXOGLUTDECARB_RXN'                    }        1.6934             0
+    {'R_SUCCCOASYN_RXN'                        }       -1.6545      0.036316
+    {'R_SUCCINATE_DEHYDROGENASE_UBIQUINONE_RXN'}         1.695     0.0015026
+    {'R_FUMHYDR_RXN'                           }       -1.8525      -0.14869
+    {'R_MALATE_DEH_RXN'                        }        1.8525       0.14869
+    {'R_ISOCIT_CLEAV_RXN'                      }    8.7507e-05    8.1763e-05
+    {'R_MALSYN_RXN'                            }             0             0
+    {'R_PEPCARBOX_RXN'                         }             0      -0.76205
+    {'R_PYRUVATE_CARBOXYLASE_RXN'              }       0.80045             0
+    {'R_41132_RXN'                             }             0             0
+    {'R_ACETYL_COA_ACETYLTRANSFER_RXN'         }             0             0
+    {'R_RXN_5901'                              }             0             0
+    {'R_RXN1_42'                               }             0             0
+    {'R_31175_RXN'                             }             0             0
+    {'EX_PHB_e'                                }             0             0
+    {'EX_SUC_e'                                }             0             0
+
+
+===== MAX THEORETICAL PRODUCT AT 50% GROWTH =====
+Fructose  growth floor 0.1293 | max SUC = 2.0903 | max PHB = 1.7077 mmol/gDW/h
+CO2+H2    growth floor 0.1208 | max SUC = 1.2500 | max PHB = 1.2500 mmol/gDW/h
+
+===== S SUB-MATRIX (PHB vs succinate) =====
+                                 <strong>R_ACETYL_COA_ACETYLTRANSFER_RXN</strong>    <strong>R_RXN_5901</strong>    <strong>R_RXN1_42</strong>    <strong>R_31175_RXN</strong>    <strong>EX_PHB_e</strong>    <strong>R_ISOCIT_CLEAV_RXN</strong>    <strong>R_SUCCCOASYN_RXN</strong>    <strong>R_SUCCINATE_DEHYDROGENASE_UBIQUINONE_RXN</strong>    <strong>EX_SUC_e</strong>
+                                 <strong>_______________________________</strong>    <strong>__________</strong>    <strong>_________</strong>    <strong>___________</strong>    <strong>________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________________________________</strong>    <strong>________</strong>
+
+    <strong>M_ACETYL_COA[c]          </strong>                  -2                        0            0             0             0                0                    0                               0                           0   
+    <strong>M_CO_A[c]                </strong>                   1                        0            1             0             0                0                   -1                               0                           0   
+    <strong>M_ACETOACETYL_COA[c]     </strong>                   1                        1            0             0             0                0                    0                               0                           0   
+    <strong>M_CPD_650[c]             </strong>                   0                       -1           -1             0             0                0                    0                               0                           0   
+    <strong>M_Poly_Hydroxybutyrate[c]</strong>                   0                        0            1            -1            -1                0                    0                               0                           0   
+    <strong>M_THREO_DS_ISO_CITRATE[c]</strong>                   0                        0            0             0             0               -1                    0                               0                           0   
+    <strong>M_GLYOX[c]               </strong>                   0                        0            0             0             0                1                    0                               0                           0   
+    <strong>M_SUC[c]                 </strong>                   0                        0            0             0             0                1                   -1                              -1                          -1   
+    <strong>M_SUC_COA[c]             </strong>                   0                        0            0             0             0                0                    1                               0                           0   
+    <strong>M_FUM[c]                 </strong>                   0                        0            0             0             0                0                    0                               1                           0   
+
+
+===== BINARY (0/1) VERSION =====
+                                 <strong>R_ACETYL_COA_ACETYLTRANSFER_RXN</strong>    <strong>R_RXN_5901</strong>    <strong>R_RXN1_42</strong>    <strong>R_31175_RXN</strong>    <strong>EX_PHB_e</strong>    <strong>R_ISOCIT_CLEAV_RXN</strong>    <strong>R_SUCCCOASYN_RXN</strong>    <strong>R_SUCCINATE_DEHYDROGENASE_UBIQUINONE_RXN</strong>    <strong>EX_SUC_e</strong>
+                                 <strong>_______________________________</strong>    <strong>__________</strong>    <strong>_________</strong>    <strong>___________</strong>    <strong>________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________________________________</strong>    <strong>________</strong>
+
+    <strong>M_ACETYL_COA[c]          </strong>                   1                       0             0             0            0                0                    0                               0                           0    
+    <strong>M_CO_A[c]                </strong>                   1                       0             1             0            0                0                    1                               0                           0    
+    <strong>M_ACETOACETYL_COA[c]     </strong>                   1                       1             0             0            0                0                    0                               0                           0    
+    <strong>M_CPD_650[c]             </strong>                   0                       1             1             0            0                0                    0                               0                           0    
+    <strong>M_Poly_Hydroxybutyrate[c]</strong>                   0                       0             1             1            1                0                    0                               0                           0    
+    <strong>M_THREO_DS_ISO_CITRATE[c]</strong>                   0                       0             0             0            0                1                    0                               0                           0    
+    <strong>M_GLYOX[c]               </strong>                   0                       0             0             0            0                1                    0                               0                           0    
+    <strong>M_SUC[c]                 </strong>                   0                       0             0             0            0                1                    1                               1                           1    
+    <strong>M_SUC_COA[c]             </strong>                   0                       0             0             0            0                0                    1                               0                           0    
+    <strong>M_FUM[c]                 </strong>                   0                       0             0             0            0                0                    0                               1                           0    
+

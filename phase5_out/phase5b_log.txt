@@ -1,0 +1,14 @@
+
+===== Fructose =====
+Design                         Growth    SUCmin    SUCmax   MOMA_mu  MOMA_SUC
+Wild type                      0.2586    0.0000    0.0044       NaN       NaN
+SDH + ACK(both)  [3 genes]     0.1875    1.1557    1.1880    0.1224    1.7339
+SDH + PTA(both)  [3 genes]     0.1875    1.1557    1.1880    0.1224    1.7339
+SDH + SucCD      [2 genes]     0.1899    0.0281    0.1201    0.1301    1.4307
+
+===== CO2_H2 =====
+Design                         Growth    SUCmin    SUCmax   MOMA_mu  MOMA_SUC
+Wild type                      0.2416    0.0000    0.0025       NaN       NaN
+SDH + ACK(both)  [3 genes]     0.2416    0.0000    0.0025    0.2416    0.0000
+SDH + PTA(both)  [3 genes]     0.2416    0.0000    0.0025    0.2416    0.0000
+SDH + SucCD      [2 genes]     0.2382    0.0352    0.0377    0.2380    0.0352

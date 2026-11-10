@@ -1,0 +1,1266 @@
+ID,Name,Degree
+M_CPD_7032[c],"3-methylbutanol",1
+M_ADENOSYL_P4[c],"P<sup>1</sup>,P<sup>4</sup>-<i>bis</i>(5'-adenosyl) tetraphosphate",2
+M_DIHYDRONEOPTERIN_P[c],"7,8-dihydroneopterin 3'-phosphate",2
+M_L_1_PHOSPHATIDYL_SERINE_C18[c],"M_M_L_1_PHOSPHATIDYL_SERINE_C18",2
+M_PHOSPHORIBOSYL_CARBOXY_AMINOIMIDAZOLE[c],"5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate",2
+M_CPD_13172[c],"6-hydroxy-2-cyclohexen-one-carboxylate",1
+M_G3P[c],"3-phospho-D-glycerate",8
+M_GDP[c],"GDP",11
+M_2_PROPENYL_GLUCOSINOLATE[c],"sinigrin",1
+M_P_HYDROXY_PHENYLPYRUVATE[c],"3-(4-hydroxyphenyl)pyruvate",3
+M_O_PHOSPHO_L_HOMOSERINE[c],"O-phospho-L-homoserine",2
+M_CPD_10832[c],"4-methyl-3-oxoadipyl-CoA",1
+M_AMP[c],"AMP",49
+M_GDP_TP[c],"pppGpp",1
+M_3_OCTAPRENYL_4_HYDROXYBENZOATE[c],"3-octaprenyl-4-hydroxybenzoate",2
+M_APS[c],"adenosine 5'-phosphosulfate",2
+M_CPD_69[c],"cyanate",2
+M_5Z8Z11Z14Z17Z_EICOSAPENTAENOATE[c],"(5Z,8Z,11Z,14Z,17Z)-icosapentaenoate",2
+M_CPD_13575[c],"2-[(2<i>R</i>,5<i>Z</i>)-2-carboxy-4-methylthiazol-5(2<i>H</i>)-ylidene]ethyl phosphate",2
+M_UROPORPHYRINOGEN_III[c],"uroporphyrinogen-III",3
+M_BETA_D_FRUCTOSE[c],"&beta;-D-fructofuranose",4
+M_LINOLENOYL_COA[c],"&alpha;-linolenoyl-CoA",1
+M_CPD_14705[c],"<i>S</i>-(4-hydroxy-nonenal-3-yl)-L-cysteinylglycine",1
+M_3_oxo_heptanoyl_ACPs[c],"M_M_3_oxo_heptanoyl_ACPs",2
+M_PHENYLACETALDEHYDE[c],"phenylacetaldehyde",3
+M_CPD_613[c],"2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate",2
+M_3_hydroxy_cis_D7_pentaecenoyl_ACPs[c],"M_M_3_hydroxy_cis_D7_pentaecenoyl_ACPs",2
+M_CPD_13757[c],"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-hydroxypropanoyl-CoA",1
+M_CLPN_C15[c],"M_M_CLPN_C15",3
+M_CPD_15678[c],"4-<i>trans</i>-3-oxo-undecenoyl-CoA",1
+M_CPD_14927[c],"phytenate",2
+M_CPD_12303[c],"undecaprenyl-diphospho-<i>N</i>-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl- D-alanine",2
+M_Menaquinols[c],"M_M_Menaquinols",1
+M_L_DELTA1_PYRROLINE_5_CARBOXYLATE[c],"(<i>S</i>)-1-pyrroline-5-carboxylate",5
+M_CPD_12304[c],"<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanine",1
+M_PE_C12[c],"M_M_PE_C12",3
+M_Beta_hydroxyundecanoyl_ACPs[c],"M_M_Beta_hydroxyundecanoyl_ACPs",2
+M_DIHYDRONEOPTERIN_P3[c],"7,8-dihydroneopterin 3'-triphosphate",3
+M_GLYCERATE[c],"(<i>R</i>)-glycerate",6
+M_TESTOSTERONE[c],"testosterone",2
+M_BENZALDEHYDE[c],"benzaldehyde",3
+M_HYDROGEN_PEROXIDE[c],"hydrogen peroxide",25
+M_3_oxo_palmitoyl_ACPs[c],"M_M_3_oxo_palmitoyl_ACPs",2
+M_L_SELENOCYSTEINE[c],"L-selenocysteine",1
+M_HYDROGEN_MOLECULE[c],"H<SUB>2</SUB>",5
+M_ASN[c],"L-asparagine",4
+M_CMP[c],"CMP",24
+M_3_KETOBUTYRATE[c],"acetoacetate",4
+M_Pyruvate_dehydrogenase_dihydrolipoate[c],"M_M_Pyruvate_dehydrogenase_dihydrolipoate",2
+M_CPD_18[c],"linoleoyl-CoA",1
+M_CPD0_2018[c],"5-methylcytosine",1
+M_L_ASPARTATE_SEMIALDEHYDE[c],"L-aspartate 4-semialdehyde",4
+M_ALPHA_RIBAZOLE_5_P[c],"&alpha;-ribazole 5'-phosphate",3
+M_TMP[c],"dTMP",3
+M_Heptanoyl_ACPs[c],"M_M_Heptanoyl_ACPs",2
+M_5_HYDROXYINDOLE_ACETATE[c],"5-hydroxyindole acetate",1
+M_RIBOFLAVIN[c],"riboflavin",3
+M_CPD_323[c],"cholest-4-en-3-one",1
+M_UDP_N_ACETYL_D_GLUCOSAMINE[c],"UDP-<i>N</i>-acetyl-&alpha;-D-glucosamine",11
+M_CPD1G_771[c],"6-O-cis-methoxy-mycolyl-trehalose 6-phosphate",1
+M_CPD_10608[c],"<i>trans</i>-dienelactone",1
+M_CPD_14675[c],"pristanoyl-CoA",1
+M_INDOLE_3_GLYCEROL_P[c],"(1<i>S</i>,2<i>R</i>)-1-C-(indol-3-yl)glycerol 3-phosphate",2
+M_DITP[c],"dITP",1
+M_2_ACETO_LACTATE[c],"(<i>S</i>)-2-acetolactate",2
+M_DEOXYXYLULOSE_5P[c],"1-deoxy-D-xylulose 5-phosphate",4
+M_CPD_15667[c],"6-<i>cis</i>, 3-oxo-tridecenoyl-CoA",2
+M_L_PANTOATE[c],"(R)-pantoate",3
+M_Undecanoyl_ACPs[c],"M_M_Undecanoyl_ACPs",2
+M_Palmitoleoyl_ACPs[c],"M_M_Palmitoleoyl_ACPs",4
+M_5_OXOPROLINE[c],"5-oxo-L-proline",1
+M_CPD_13717[c],"L-selenocystathionine",1
+M_CPD_12575[c],"UDP-&alpha;-D-glucose",4
+M_CPD_264[c],"3-hydroxybenzoyl-CoA",1
+M_S_HYDROXYMETHYLGLUTATHIONE[c],"<i>S</i>-(hydroxymethyl)glutathione",1
+M_L_GLUTAMATE_5_P[c],"&gamma;-L-glutamyl 5-phosphate",2
+M_UTP[c],"UTP",7
+M_N1_ACETYLSPERMINE[c],"<i>N</i><sup>1</sup>-acetylspermine",1
+M_CPD_578[c],"urea-1-carboxylate",1
+M_5_10_METHENYL_THF[c],"5,10-methenyltetrahydrofolate mono-L-glutamate",3
+M_GLUTAMATE_1_SEMIALDEHYDE[c],"(S)-4-amino-5-oxopentanoate",2
+M_CPD_1116[c],"(R)-3-((R)-3-hydroxybutanoyloxy)-butanoate",1
+M_CPD_290[c],"3,5-cyclohexadiene-1,2-diol-1-carboxylate",2
+M_CPD0_1082[c],"L-alanyl-&gamma;-D-glutamyl-<i>meso</i>-2,6-diaminopimeloyl-D-alanine",2
+M_3_oxo_dodecanoyl_ACPs[c],"M_M_3_oxo_dodecanoyl_ACPs",2
+M_CPD0_2108[c],"(2<i>E</i>)-oct-2-enoyl-CoA",2
+M_CPD_205[c],"pimelate",1
+M_COBALT_SIROHYDROCHLORIN[c],"cobalt-sirohydrochlorin",1
+M_ADENINE[c],"adenine",6
+M_TREHALOSE[c],"&alpha;,&alpha;-trehalose",3
+M_CPD_10600[c],"3-(4-hydroxyphenyl)-3-oxo-propanoyl-CoA",2
+M_Trans_D2_decenoyl_ACPs[c],"M_M_Trans_D2_decenoyl_ACPs",3
+M_3_HYDROXYADIPYL_COA[c],"(3S)-hydroxyadipyl-CoA",3
+M_CPD_9699[c],"hypoglycin A",1
+M_CPD0_2298[c],"(<i>S</i>)-ureidoglycine",1
+M_CPD_15716[c],"sucrose 6<sup>G</sup>-phosphate",1
+M_FE2[c],"Fe<SUP>2+</SUP>",5
+M_5_P_RIBOSYL_N_FORMYLGLYCINEAMIDE[c],"<i>N</i><sup>2</sup>-formyl-<i>N</i><sup>1</sup>-(5-phospho-&beta;-D-ribosyl)glycinamide",3
+M_CPD_7224[c],"<i>N</i>-acetyl-L-citrulline",1
+M_CPD_1136[c],"<i>cis</i>-2-methylaconitate",2
+M_CARBAMOYL_P[c],"carbamoyl phosphate",3
+M_CPD_14269[c],"(15<i>Z</i>)-tetracosenoyl-CoA",1
+M_4_IMIDAZOLEACETATE[c],"4-imidazoleacetate",1
+M_KDO2_LAUROYL_LIPID_IVA[c],"&alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->6)-(lauroyl)-lipid IV<SUB>A</SUB>",2
+M_3_HYDROXY_PROPIONYL_COA[c],"3-hydroxypropanoyl-CoA",1
+M_3_SULFINOALANINE[c],"3-sulfino-L-alanine",1
+M_CPD_694[c],"cob(I)yrinate <i>a,c</i>-diamide",1
+M_RIBOSE_1P[c],"&alpha;-D-ribose-1-phosphate",3
+M_CPD_10826[c],"4-methyl-3-oxoadipate",2
+M_CPD0_2363[c],"2-oxepin-2(3H)-ylideneacetyl-CoA",2
+M_N_acetyl_D_glucosamine[c],"M_M_N_acetyl_D_glucosamine",1
+M_TAURINE[c],"taurine",1
+M_CPD_782[c],"(3,4-dihydroxyphenyl)acetate",3
+M_CPD_661[c],"propynoate",1
+M_CPD_824[c],"5-guanidino-2-oxopentanoate",1
+M_3_UREIDO_PROPIONATE[c],"3-ureidopropanoate",1
+M_CPD_3618[c],"2-oxovalerate",1
+M_PROPANOL[c],"propan-1-ol",1
+M_PYRIDOXINE[c],"pyridoxine",1
+M_CPD0_2480[c],"&alpha;-D-ribose-1-methylphosphonate 5-phosphate",1
+M_CPD_15692[c],"(3E)-dec-3-enoyl-CoA",1
+M_GLYOX[c],"glyoxylate",9
+M_R_1_AMINOPROPAN_2_YL_PHOSPHATE[c],"(<i>R</i>)-1-amino-2-propanol <i>O</i>-2-phosphate",1
+M_R_3_hydroxyhexanoyl_ACPs[c],"M_M_R_3_hydroxyhexanoyl_ACPs",2
+M_PHOSPHORIBOSYL_FORMIMINO_AICAR_P[c],"1-(5-phospho-&beta;-D-ribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide",2
+M_CARBAMATE[c],"carbamate",2
+M_COPROPORPHYRINOGEN_III[c],"coproporphyrinogen III",4
+M_CPD_1302[c],"5-methyltetrahydropteroyl tri-L-glutamate",2
+M_CYTIDINE[c],"cytidine",1
+M_CPD_14873[c],"3-amino-4-hydroxybenzoate",1
+M_4_FUMARYL_ACETOACETATE[c],"4-fumaryl-acetoacetate",2
+M_L_1_PHOSPHATIDYL_SERINE_C16_1[c],"M_M_L_1_PHOSPHATIDYL_SERINE_C16_1",2
+M_ATP[c],"ATP",140
+M_CPD_237[c],"(indol-3-yl)acetamide",1
+M_MANNOSE_1P[c],"&alpha;-D-mannose 1-phosphate",2
+M_ADENOSYLCOBINAMIDE_GDP[c],"adenosylcobinamide-GDP",3
+M_PE_C16[c],"M_M_PE_C16",3
+M_Pi[c],"phosphate",121
+M_CPD_14772[c],"hexadecanedioyl-CoA",1
+M_MG_PROTOPORPHYRIN[c],"Mg-protoporphyrin",1
+M_Trans_D3_cis_D7_tetradecenoyl_ACPs[c],"M_M_Trans_D3_cis_D7_tetradecenoyl_ACPs",2
+M_CPD_10588[c],"(25<i>S</i>)-3&alpha;,7&alpha;-dihydroxy-5&beta;-cholestanoyl-CoA",1
+M_CDP[c],"CDP",3
+M_L_1_PHOSPHATIDYL_SERINE_C17[c],"M_M_L_1_PHOSPHATIDYL_SERINE_C17",2
+M_CPD_294[c],"2-maleylacetate",6
+M_CPD_7031[c],"3-methylbutanal",1
+M_CPD_10189[c],"iminodiacetate",1
+M_ALLYSINE[c],"(<i>S</i>)-2-amino-6-oxohexanoate",1
+M_CPD_650[c],"(3<i>R</i>)-3-hydroxybutanoyl-CoA",3
+M_BENZOYLCOA[c],"benzoyl-CoA",3
+M_CPD_15152[c],"6-methoxy-2-all-trans-octaprenyl-1,4-benzoquinone",1
+M_CPD_13713[c],"adenosine 5'-phosphoselenate",1
+M_CPD_19752[c],"4-fluorocatechol",2
+M_CREATININE[c],"creatinine",1
+M_CPD0_1718[c],"7,8-dihydropterin",1
+M_2_OCTAPRENYL_6_METHOXYPHENOL[c],"2-methoxy-6-(<i>all-trans</i>-octaprenyl)phenol",3
+M_CPD_618[c],"(2<i>R</i>,3<i>S</i>)-2-methylisocitrate",2
+M_N2_SUCCINYLGLUTAMATE[c],"N<SUP>2</SUP>-succinylglutamate",2
+M_LIPOYL_AMP[c],"(lipoyl)adenylate",1
+M_FADH2[c],"FADH<SUB>2</SUB>",14
+M_BUTYRYL_COA[c],"butanoyl-CoA",2
+M_CPD_11444[c],"uroporphyrinogen-I",1
+M_CPD_10750[c],"UDP-2-acetamido-2,6-dideoxy-&beta;-L-<i>arabino</i>-hex-4-ulose",1
+M_R_6_HYDROXYNICOTINE[c],"(R)-6-hydroxynicotine",1
+M_PHYTOL[c],"phytol",1
+M_ADIPATE[c],"adipate",2
+M_DTDP_D_GLUCOSE[c],"dTDP-&alpha;-D-glucose",2
+M_C4[c],"undecaprenyl-diphospho-<i>N</i>-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl- D-alanyl-D-alanine",2
+M_CPD_11526[c],"3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-buta-2-enoyl)-CoA",1
+M_DIHYDROPTERIN_CH2OH_PP[c],"(7,8-dihydropterin-6-yl)methyl diphosphate",2
+M_PPI[c],"diphosphate",97
+M_10_FORMYL_THF[c],"10-formyl-tetrahydrofolate mono-L-glutamate",4
+M_T2_DECENOYL_COA[c],"(2E)-dec-2-enoyl-CoA",1
+M_ALL_TRANS_HEPTAPRENYL_DIPHOSPHATE[c],"all-<i>trans</i>-heptaprenyl diphosphate",1
+M_CPD1G_768[c],"6-O-&alpha;-mycolyl-trehalose 6-phosphate",1
+M_CPD_15163[c],"prop-2-ynal",1
+M_MAL[c],"(<i>S</i>)-malate",5
+M_CTP[c],"CTP",18
+M_CPD_13576[c],"2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate",1
+M_3_MERCAPTO_PYRUVATE[c],"3-mercaptopyruvate",1
+M_CPD_600[c],"<i>N</i>-formyl-L-glutamate",2
+M_CARBOXYPHENYLAMINO_DEOXYRIBULOSE_P[c],"1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate",2
+M_CPD_14553[c],"UDP-&alpha;-D-galactose",1
+M_CPD_12140[c],"2-butenyl-thiohydroximate-O-sulfate",1
+M_CPD_4211[c],"prenyl diphosphate",3
+M_ACRYLAMIDE[c],"acrylamide",1
+M_HYDROXYMETHYLBILANE[c],"preuroporphyrinogen",2
+M_3_DEOXY_D_ARABINO_HEPTULOSONATE_7_P[c],"3-deoxy-D-arabino-heptulosonate 7-phosphate",2
+M_3_KETO_ADIPATE[c],"3-oxoadipate",4
+M_LINOLEIC_ACID[c],"linoleate",1
+M_CPD_7367[c],"3-amino-4-hydroxybenzaldehyde",1
+M_ACYL_SN_GLYCEROL_3P_C17_1[c],"M_M_ACYL_SN_GLYCEROL_3P_C17_1",2
+M_2_PHOSPHO_4_CYTIDINE_5_DIPHOSPHO_2_C_MET[c],"2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol",2
+M_SUCROSE[c],"sucrose",1
+M_URIDINE[c],"uridine",1
+M_CPD_14932[c],"<i>N</i><sup>10</sup>-formyldihydrofolate",1
+M_CPD_16177[c],"4-[(2Z)-2-(methylimino)ethyl]phenol",2
+M_2_3_DIHYDROXYBENZOATE[c],"2,3-dihydroxybenzoate",1
+M_CARBAMYUL_L_ASPARTATE[c],"<i>N</i>-carbamoyl-L-aspartate",2
+M_ETHANOL_AMINE[c],"ethanolamine",11
+M_NADH[c],"NADH",170
+M_URACIL[c],"uracil",4
+M_CPD_3745[c],"isethionate",1
+M_MALTOTRIOSE[c],"maltotriose",3
+M_Cis_delta_3_undecenoyl_ACPs[c],"M_M_Cis_delta_3_undecenoyl_ACPs",2
+M_TRP[c],"L-tryptophan",4
+M_CPD_12311[c],"a peptidoglycan tetramer with a D,D cross-link (<i>Enterococcus faecium</i>)",1
+M_PSEUDOURIDINE_5_P[c],"pseudouridine 5'-phosphate",1
+M_L_1_PHOSPHATIDYL_SERINE_C14[c],"M_M_L_1_PHOSPHATIDYL_SERINE_C14",2
+M_CPD_784[c],"5-carboxymethyl-2-hydroxymuconate",2
+M_L_PHOSPHATIDATE_C16_1[c],"M_M_L_PHOSPHATIDATE_C16_1",2
+M_FMN[c],"FMN",9
+M_ARG[c],"L-arginine",5
+M_LYS[c],"L-lysine",3
+M_CPD_111[c],"3-methylcatechol",2
+M_E_PHENYLITACONYL_COA[c],"(<i>E</i>)-2-benzylidenesuccinyl-CoA",1
+M_GLUTATHIONYLSPERMIDINE[c],"glutathionylspermidine",1
+M_L_1_PHOSPHATIDYL_GLYCEROL_P_C14[c],"M_M_L_1_PHOSPHATIDYL_GLYCEROL_P_C14",2
+M_3_HYDROXY_PROPIONATE[c],"3-hydroxypropanoate",2
+M_4_HYDROXY_L_PROLINE[c],"<i>trans</i>-4-hydroxy-L-proline",1
+M_CPD_16179[c],"4-(2-iminoethyl)phenol",1
+M_6_CARBOXYHEX_2_ENOYL_COA[c],"6-carboxyhex-2-enoyl-CoA",1
+M_UNDECAPRENYL_DIPHOSPHATE[c],"<i>di-trans,octa-cis</i>-undecaprenyl diphosphate",6
+M_HS[c],"hydrogen sulfide",5
+M_CPD_11524[c],"3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxohexanoyl)-CoA",2
+M_CPD_464[c],"prephytoene diphosphate",1
+M_SUCC_S_ALD[c],"succinate semialdehyde",4
+M_SO3[c],"sulfite",13
+M_CPD0_1028[c],"2-<i>cis</i>,6-<i>trans</i>,10-<i>trans</i>-geranylgeranyl diphosphate",1
+M_D_ALPHABETA_D_HEPTOSE_7_PHOSPHATE[c],"M_M_D_ALPHABETA_D_HEPTOSE_7_PHOSPHATE",1
+M_4_CYTIDINE_5_DIPHOSPHO_2_C[c],"4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol",2
+M_CPD_1091[c],"(<i>S</i>)-ureidoglycolate",2
+M_PREPHENATE[c],"prephenate",3
+M_ACYL_SN_GLYCEROL_3P_C16[c],"M_M_ACYL_SN_GLYCEROL_3P_C16",2
+M_GLYCOLALDEHYDE[c],"glycolaldehyde",3
+M_ADENYLOSUCC[c],"adenylo-succinate",2
+M_Red_Thioredoxin[c],"M_M_Red_Thioredoxin",8
+M_CPD_209[c],"UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysine",1
+M_ACYL_SN_GLYCEROL_3P_C18[c],"M_M_ACYL_SN_GLYCEROL_3P_C18",2
+M_CPD_1106[c],"(2-aminoethyl)phosphonate",1
+M_3_ENOLPYRUVYL_SHIKIMATE_5P[c],"5-enolpyruvoyl-shikimate 3-phosphate",2
+M_C1[c],"UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimeloyl-D-alanyl-D-alanine",3
+M_XYLULOSE_5_PHOSPHATE[c],"D-xylulose 5-phosphate",3
+M_KDO2_LIPID_IVA[c],"&alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->6)-lipid IV<SUB>A</SUB>",2
+M_THYMINE[c],"thymine",3
+M_CPD66_29[c],"5-androstene-3,17-dione",1
+M_BETAINE_ALDEHYDE[c],"betaine aldehyde",2
+M_DIHYDRO_THYMINE[c],"5,6-dihydrothymine",1
+M_1_KETO_2_METHYLVALERATE[c],"(<i>R</i>)-2,3-dihydroxy-3-methylpentanoate",2
+M_CPD_690[c],"adenosyl-cob(III)yrinate <i>a,c</i>-diamide",2
+M_3_oxo_hexanoyl_ACPs[c],"M_M_3_oxo_hexanoyl_ACPs",2
+M_ERYTHROSE_4P[c],"D-erythrose 4-phosphate",5
+M_D_GLUCOSAMINE_6_P[c],"M_M_D_GLUCOSAMINE_6_P",4
+M_CPD_371[c],"1-octanal",1
+M_2_KETO_3_METHYL_VALERATE[c],"(<i>S</i>)-3-methyl-2-oxopentanoate",3
+M_NN_DIMETHYLANILINE_N_OXIDE[c],"<i>N,N</i>-dimethylaniline-<i>N</i>-oxide",1
+M_3OH_4P_OH_ALPHA_KETOBUTYRATE[c],"(3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate",2
+M_WATER[c],"H<sub>2</sub>O",429
+M_N_ACETYL_D_GLUCOSAMINE_1_P[c],"<i>N</i>-acetyl-&alpha;-D-glucosamine 1-phosphate",2
+M_CO_A[c],"coenzyme A",77
+M_4_FLUOROBENZOATE[c],"4-fluorobenzoate",2
+M_GLY[c],"glycine",8
+M_TYRAMINE[c],"tyramine",2
+M_PRISTANATE[c],"pristanate",1
+M_GERANYL_PP[c],"geranyl diphosphate",2
+M_3_hydroxy_cis_D9_heptaecenoyl_ACPs[c],"M_M_3_hydroxy_cis_D9_heptaecenoyl_ACPs",2
+M_D_6_P_GLUCONO_DELTA_LACTONE[c],"6-phospho D-glucono-1,5-lactone",2
+M_CPD_7671[c],"methanethiol",1
+M_CPD_592[c],"4-guanidinobutanoate",1
+M_DGMP[c],"dGMP",1
+M_CPD_5881[c],"(6R)-4a-hydroxy-tetrahydrobiopterin",2
+M_CPD0_2224[c],"M_M_CPD0_2224",2
+M_CPD_7036[c],"3-(methylsulfanyl)propanal",1
+M_CHORISMATE[c],"chorismate",5
+M_CPD_12230[c],"a peptidoglycan with D,D cross-link (S. aureus)",1
+M_B_ALANINE[c],"&beta;-alanine",5
+M_OX_COENZYME_F420[c],"oxidized coenzyme F<sub>420</sub>-2",1
+M_5_PHOSPHO_RIBOSYL_GLYCINEAMIDE[c],"<i>N</i><sup>1</sup>-(5-phospho-&beta;-D-ribosyl)glycinamide",3
+M_2_ACETO_2_HYDROXY_BUTYRATE[c],"(<i>S</i>)-2-aceto-2-hydroxybutanoate",2
+M_3_oxo_decanoyl_ACPs[c],"M_M_3_oxo_decanoyl_ACPs",2
+M_ACETYL_P[c],"acetyl phosphate",3
+M_Reduced_flavodoxins[c],"M_M_Reduced_flavodoxins",1
+M_CPD_3617[c],"decanoate",1
+M_Ubiquinols[c],"M_M_Ubiquinols",16
+M_Dodec_2_enoyl_ACPs[c],"M_M_Dodec_2_enoyl_ACPs",2
+M_FMNH2[c],"FMNH<SUB>2</SUB>",6
+M_CPD0_1456[c],"UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanine",2
+M_L_1_PHOSPHATIDYL_GLYCEROL_P_C18_1[c],"M_M_L_1_PHOSPHATIDYL_GLYCEROL_P_C18_1",2
+M_CYCLOHEXANONE[c],"cyclohexanone",2
+M_CPD_13006[c],"2-benzyl-thiohydroximate-O-sulfate",1
+M_CPD_1083[c],"(<i>E</i>)-2-methylcrotonoyl-CoA",2
+M_METHYLENE_THF[c],"5,10-methylenetetrahydropteroyl mono-L-glutamate",6
+M_CPD_654[c],"2,5-dioxopentanoate",3
+M_3_P_HYDROXYPYRUVATE[c],"3-phosphooxypyruvate",2
+M_5_HYDROXYINDOLE_ACETALDEHYDE[c],"5-hydroxyindole acetaldehyde",3
+M_1_AMINO_PROPAN_2_OL[c],"(<i>R</i>)-1-aminopropan-2-ol",1
+M_CO2[c],"Co<SUP>2+</SUP>",1
+M_CPD_11522[c],"3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-hexa-2-enoyl)-CoA",1
+M_CPD_14876[c],"3-acetylamino-4-hydroxybenzaldehyde",1
+M_O_SUCCINYL_L_HOMOSERINE[c],"O-succinyl-L-homoserine",1
+M_2C_METH_D_ERYTHRITOL_CYCLODIPHOSPHATE[c],"2-C-methyl-D-erythritol-2,4-cyclodiphosphate",2
+M_Adenylated_ThiS_Proteins[c],"M_M_Adenylated_ThiS_Proteins",2
+M_Hex_2_enoyl_ACPs[c],"M_M_Hex_2_enoyl_ACPs",2
+M_Oxo_glutarate_dehydro_suc_DH_lipoyl[c],"M_M_Oxo_glutarate_dehydro_suc_DH_lipoyl",2
+M_CPD_15691[c],"(5E)-3-oxo-dodec-5-enoyl-CoA",2
+M_CPD_13691[c],"(25S)-3-oxocholest-4-en-26-oyl-CoA",1
+M_CPD_13360[c],"<i>N</i>-acetyl-D-glucosaminyl-<i>N</i>-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysine",1
+M_CPD_380[c],"3-sulfopyruvate",1
+M_2_METHYL_3_HYDROXY_BUTYRYL_COA[c],"(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA",1
+M_Octadec_2_enoyl_ACPs[c],"M_M_Octadec_2_enoyl_ACPs",2
+M_CPD_10825[c],"4-methyl-3-oxoadipate-enol-lactone",2
+M_S_ADENOSYLMETHIONINE[c],"<i>S</i>-adenosyl-L-methionine",12
+M_CPD_568[c],"<i>N</i><SUP>1</SUP>-acetylspermidine",1
+M_pyrroloquinoline_quinone[c],"M_M_pyrroloquinoline_quinone",1
+M_INDOLE_ACETATE_AUXIN[c],"(indol-3-yl)acetate",4
+M_METHACRYLYL_COA[c],"methylacrylyl-CoA",1
+M_CPD_1821[c],"<i>sym</i>-homospermidine",1
+M_HG2[c],"Hg<SUP>2+</SUP>",1
+M_CPD_7033[c],"2-methylbutanol",1
+M_ACETYLSERINE[c],"<i>O</i>-acetyl-L-serine",4
+M_Beta_3_hydroxybutyryl_ACPs[c],"M_M_Beta_3_hydroxybutyryl_ACPs",2
+M_6_HYDROXY_NICOTINATE[c],"6-hydroxynicotinate",2
+M_PYRIDOXAMINE_5P[c],"pyridoxamine 5'-phosphate",1
+M_CARBON_MONOXIDE[c],"carbon monoxide",3
+M_CPD_11529[c],"(+)-7-<i>epi</i>-jasmonoyl-CoA",1
+M_CPD_11879[c],"3,4-dihydroxymandelate",1
+M_D_GALACTOSAMINE_6_PHOSPHATE[c],"M_M_D_GALACTOSAMINE_6_PHOSPHATE",1
+M_DIHYDROLIPOAMIDE[c],"dihydrolipoamide",1
+M_HEXANOYL_COA[c],"hexanoyl-CoA",1
+M_ERYTHRONATE_4P[c],"4-phospho-D-erythronate",2
+M_CYS_GLY[c],"L-cysteinylglycine",1
+M_2_DEHYDROPANTOATE[c],"2-dehydropantoate",2
+M_CPD_12308[c],"a peptidoglycan dimer (<i>E. faecium</i>, tetrapeptide)",1
+M_CPD1G_772[c],"6-O-trans-methoxy-mycolyl-trehalose 6-phosphate",1
+M_ESTRONE_SULFATE[c],"estrone 3-sulfate",1
+M_5_DEHYDROGLUCONATE[c],"5-dehydro-D-gluconate",2
+M_CPDQT_520[c],"phosphatidylglycerophosphate (1-octadecenoyl(9Z), 2-palmitoyl)",1
+M_SELENATE[c],"selenate",1
+M_2_CHLOROMALEYLACETATE[c],"2-chloromaleylacetate",3
+M_CLPN_C16[c],"M_M_CLPN_C16",3
+M_CPD_13754[c],"3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA",1
+M_DIHYDROSIROHYDROCHLORIN[c],"precorrin-2",1
+M_INDOLEYL_CPD[c],"(indole-3-yl)acetonitrile",1
+M_DTDP_DEOH_DEOXY_GLUCOSE[c],"dTDP-4-dehydro-6-deoxy-&alpha;-D-glucopyranose",2
+M_NAD[c],"NAD<sup>+</sup>",174
+M_CAMP[c],"cyclic-AMP",1
+M_CMP_KDO[c],"CMP-3-deoxy-&beta;-D-<i>manno</i>-octulosonate",3
+M_Starch[c],"M_M_Starch",3
+M_D_SEDOHEPTULOSE_1_7_P2[c],"D-sedoheptulose 1,7-bisphosphate",2
+M_CPD_11519[c],"3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxyoctanoyl)-CoA",2
+M_2_5_DIHYDROXYPYRIDINE[c],"2,5-dihydroxypyridine",2
+M_CYS[c],"L-cysteine",10
+M_OROTIDINE_5_PHOSPHATE[c],"orotidine 5'-phosphate",2
+M_DIMETHYLBENZIMIDAZOLE[c],"5,6-dimethylbenzimidazole",1
+M_THIAMINE[c],"thiamine",2
+M_DETHIOBIOTIN[c],"dethiobiotin",2
+M_GLT[c],"L-glutamate",50
+M_Cis_Delta5_tridecenoyl_ACPs[c],"M_M_Cis_Delta5_tridecenoyl_ACPs",2
+M_Pentanoyl_ACPs[c],"M_M_Pentanoyl_ACPs",2
+M_IMIDAZOLE_ACETALDEHYDE[c],"imidazole acetaldehyde",1
+M_N_ACETYL_SEROTONIN[c],"<i>N</i>-acetyl-serotonin",1
+M_CPD_101[c],"&epsilon;-caprolactone",1
+M_ADENOSYLCOBINAMIDE[c],"adenosylcobinamide",2
+M_CLPN_C18[c],"M_M_CLPN_C18",3
+M_3_oxo_myristoyl_ACPs[c],"M_M_3_oxo_myristoyl_ACPs",2
+M_DAMP[c],"dAMP",2
+M_XANTHINE[c],"xanthine",5
+M_OXALATE[c],"oxalate",1
+M_Tetradec_2_enoyl_ACPs[c],"M_M_Tetradec_2_enoyl_ACPs",2
+M_1_AMINO_PROPAN_2_ONE_3_PHOSPHATE[c],"3-amino-1-hydroxyacetone 1-phosphate",3
+M_Cis_Delta5_dodecenoyl_ACPs[c],"M_M_Cis_Delta5_dodecenoyl_ACPs",2
+M_L_1_PHOSPHATIDYL_GLYCEROL_P_C17_1[c],"M_M_L_1_PHOSPHATIDYL_GLYCEROL_P_C17_1",2
+M_Palmitoyl_ACPs[c],"M_M_Palmitoyl_ACPs",4
+M_HIS[c],"L-histidine",4
+M_COPROPORPHYRINOGEN_I[c],"coproporphyrinogen I",1
+M_3_Oxo_octanoyl_ACPs[c],"M_M_3_Oxo_octanoyl_ACPs",2
+M_CPD_11495[c],"(2-hydroxyphenyl)acetate",1
+M_METHYLAMINE[c],"methylamine",3
+M_CPD1G_1344[c],"&alpha;, &alpha;'-trehalose 6-&alpha;-mycolate",1
+M_HG0[c],"Hg<sup>0</sup>",1
+M_FORMATE[c],"formate",18
+M_DCMP[c],"dCMP",2
+M_CPD_15676[c],"6-<i>trans</i>-3-oxo-tridecenoyl-CoA",1
+M_DELTA3_ISOPENTENYL_PP[c],"isopentenyl diphosphate",7
+M_L_ARGININO_SUCCINATE[c],"L-arginino-succinate",2
+M_MYO_INOSITOL[c],"<I>myo</I>-inositol",1
+M_ADP[c],"ADP",91
+M_DIHYDROXYPHENYLGLYCOLALDEHYDE[c],"3,4-dihydroxyphenylglycolaldehyde",4
+M_INDOLE_PYRUVATE[c],"(indol-3-yl)pyruvate",2
+M_METHYLBUT_CPD[c],"2-methylbutanal",1
+M_PHOSPHORIBULOSYL_FORMIMINO_AICAR_P[c],"phosphoribulosylformimino-AICAR-phosphate",2
+M_PHENYLACETATE[c],"phenylacetate",3
+M_GTP[c],"GTP",16
+M_ADENOSYLCOBALAMIN[c],"adenosylcobalamin",3
+M_CPD_107[c],"6-hydroxypseudooxynicotine",1
+M_CDPDIACYLGLYCEROL_C16_1[c],"M_M_CDPDIACYLGLYCEROL_C16_1",3
+M_AMINO_HYDROXYMETHYL_METHYL_PYR_P[c],"4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine",2
+M_CPD_12307[c],"<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-isoglutaminyl-N-(&beta;-D-asparaginyl)-L-lysyl-D-alanine",1
+M_CPD_157[c],"(2<i>Z</i>,4<i>E</i>)-2-hydroxy-6-oxonona-2,4-diene-1,9-dioate",1
+M_ARSENATE[c],"arsenate",1
+M_CPD_14736[c],"L-kynurenine",4
+M_CPD_10824[c],"3-methylmuconolactone",2
+M_DELTA1_PIPERIDEINE_2_6_DICARBOXYLATE[c],"(<i>S</i>)-2,3,4,5-tetrahydrodipicolinate",3
+M_PG_C18[c],"M_M_PG_C18",4
+M_CHLOROACETIC_ACID[c],"2-chloroacetate",1
+M_Unsulfurated_Sulfur_Acceptors[c],"M_M_Unsulfurated_Sulfur_Acceptors",2
+M_3_Hydroxy_octanoyl_ACPs[c],"M_M_3_Hydroxy_octanoyl_ACPs",2
+M_QUINOLINATE[c],"quinolinate",3
+M_FRU1P[c],"&beta;-D-fructofuranose 1-phosphate",1
+M_CPD0_1081[c],"<i>N</i>-acetyl-&beta;-D-glucosamine-1,6-anhydro-<i>N</i>-acetyl-&beta;-D-muramate",2
+M_N_SUCCINYLLL_2_6_DIAMINOPIMELATE[c],"<i>N</i>-succinyl-L,L-2,6-diaminopimelate",2
+M_SPERMINE[c],"spermine",1
+M_MALONYL_ACP[c],"M_M_MALONYL_ACP",22
+M_CPD_13174[c],"salicyl-6-hydroxy-2-cyclohexene-on-oyl",1
+M_CPD_11523[c],"3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxyhexanoyl)-CoA",2
+M_AMINO_OXOBUT[c],"L-2-amino-3-oxobutanoate",2
+M_3_hydroxypentanoyl_ACPs[c],"M_M_3_hydroxypentanoyl_ACPs",2
+M_CPD_12179[c],"M_M_CPD_12179",2
+M_HOMO_CYS[c],"L-homocysteine",6
+M_Octanoyl_ACPs[c],"M_M_Octanoyl_ACPs",2
+M_CPD_8355[c],"1-(oleoyl)-<i>sn</i>-glycero-3-phosphoethanolamine",1
+M_UDP_MANNACA[c],"UDP-<i>N</i>-acetyl-&alpha;-D-mannosaminuronate",1
+M_UMP[c],"UMP",8
+M_CPD_12365[c],"8-oxo-dGMP",1
+M_CDPDIACYLGLYCEROL_C18_1[c],"M_M_CDPDIACYLGLYCEROL_C18_1",3
+M_R_3_hydroxy_cis_vaccenoyl_ACPs[c],"M_M_R_3_hydroxy_cis_vaccenoyl_ACPs",2
+M_BENZOATE[c],"benzoate",5
+M_ISOBUTANOL[c],"isobutanol",1
+M_CPD_15661[c],"2-<i>trans</i>, 4-<i>trans</i>-undecadienoyl-CoA",1
+M_3_hydroxy_cis_D9_hexaecenoyl_ACPs[c],"M_M_3_hydroxy_cis_D9_hexaecenoyl_ACPs",2
+M_CPD_10472[c],"3-dimethylsulfoniopropionaldehyde",1
+M_URATE[c],"urate",1
+M_CPD_8120[c],"di-homo-&gamma;-linolenate",1
+M_CPD_14268[c],"(15<i>Z</i>)-tetracosenoate",1
+M_CPD_108[c],"4-methylphenol",1
+M_SE_2[c],"selenide",1
+M_CPD_13339[c],"(2<i>Z</i>,4<i>E</i>)-2-hydroxyhexa-2,4-dienedioate",1
+M_HYDROXY_METHYL_BUTENYL_DIP[c],"(<i>E</i>)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate",5
+M_GERANYLGERANYL_PP[c],"geranylgeranyl diphosphate",1
+M_CPD_206[c],"phytanoyl-CoA",1
+M_DEOXYURIDINE[c],"2'-deoxyuridine",1
+M_L_CARNITINYL_COA[c],"L-carnitinyl-CoA",1
+M_L_HISTIDINOL_P[c],"L-histidinol phosphate",2
+M_2_OCTAPRENYL_6_HYDROXYPHENOL[c],"3-(<i>all-trans</i>-octaprenyl)benzene-1,2-diol",3
+M_R_3_Hydroxypalmitoyl_ACPs[c],"M_M_R_3_Hydroxypalmitoyl_ACPs",2
+M_PHOSPHORIBOSYL_FORMAMIDO_CARBOXAMIDE[c],"5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide",2
+M_PANTETHEINE_P[c],"4'-phosphopantetheine",2
+M_CREATINE[c],"creatine",1
+M_CYTOSINE[c],"cytosine",1
+M_PE_C17_1[c],"M_M_PE_C17_1",3
+M_CPD0_2362[c],"2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA",2
+M_SULFOACETALDEHYDE[c],"sulfoacetaldehyde",1
+M_3_oxo_heptadeca_ACPs[c],"M_M_3_oxo_heptadeca_ACPs",2
+M_PYRIDOXINE_5P[c],"pyridoxine 5'-phosphate",3
+M_L_PHOSPHATIDATE_C18_1[c],"M_M_L_PHOSPHATIDATE_C18_1",2
+M_HOMO_SER[c],"L-homoserine",5
+M_GMP[c],"GMP",7
+M_CPD_548[c],"<i>S</i>-formylglutathione",1
+M_4_HYDROXYBENZALDEHYDE[c],"4-hydroxybenzaldehyde",1
+M_N_ACETYL_5_METHOXY_TRYPTAMINE[c],"melatonin",1
+M_Trans_D3_cis_D5_dodecenoyl_ACPs[c],"M_M_Trans_D3_cis_D5_dodecenoyl_ACPs",2
+M_ADENOSINE_DIPHOSPHATE_RIBOSE[c],"ADP-D-ribose",1
+M_CPD_9646[c],"<i>di-trans,octa-cis</i>-undecaprenyl phosphate",4
+M_3_OXOADIPATE_ENOL_LACTONE[c],"(4,5-dihydro-5-oxofuran-2-yl)-acetate",3
+M_NITROGEN_MOLECULE_p[c],"M_M_NITROGEN_MOLECULE_p",2
+M_SHIKIMATE_5P[c],"shikimate 3-phosphate",2
+M_TRYPTAMINE[c],"tryptamine",1
+M_CPD_8978[c],"ethylphosphate",1
+M_THF[c],"5,6,7,8-tetrahydrofolate",9
+M_IMINOASPARTATE[c],"2-iminosuccinate",3
+M_OXYGEN_MOLECULE[c],"oxygen",81
+M_CPD_2961[c],"D-gluconate 6-phosphate",5
+M_GLC_D_LACTONE[c],"D-glucono-1,5-lactone",3
+M_GLYCOLLATE[c],"glycolate",7
+M_KYNURENATE[c],"kynurenate",2
+M_FORMAMIDE[c],"formamide",1
+M_CPD_667[c],"<i>O</i>-acetyl-L-homoserine",3
+M_DIHYDROFOLATE[c],"7,8-dihydrofolate monoglutamate",3
+M_CPD_14443[c],"(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate",3
+M_IDP[c],"IDP",2
+M_7_8_DIHYDROPTEROATE[c],"7,8-dihydropteroate",2
+M_CPD_15668[c],"4-<i>cis</i>-undecenoyl-CoA",1
+M_CPD_11528[c],"3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxobutanoyl)-CoA",2
+M_PROTOPORPHYRIN_IX[c],"protoporphyrin IX",4
+M_2_KETO_ISOVALERATE[c],"3-methyl-2-oxobutanoate",5
+M_SIROHYDROCHLORIN[c],"sirohydrochlorin",1
+M_Septanoyl_ACPs[c],"M_M_Septanoyl_ACPs",2
+M_CPD_12476[c],"2'-aminobiphenyl-2,3-diol",1
+M_CPD_339[c],"2-dehydro-6-phospho-D-gluconate",3
+M_Sulfurylated_ThiI[c],"M_M_Sulfurylated_ThiI",2
+M_IMP[c],"IMP",5
+M_L_1_PHOSPHATIDYL_SERINE_C12[c],"M_M_L_1_PHOSPHATIDYL_SERINE_C12",2
+M_CPD_6442[c],"methylsalicylate",1
+M_CPD_15153[c],"3-methyl-6-methoxy-2-octaprenyl-1,4-benzoquinone",1
+M_CPD_7037[c],"methionol",1
+M_CPD_13695[c],"3,24-dioxocholest-4-en-26-oyl-CoA",1
+M_PROTOPORPHYRINOGEN[c],"protoporphyrinogen IX",5
+M_VANILLATE[c],"vanillate",1
+M_CPD0_2184[c],"(2<i>Z</i>,4<i>E</i>,7<i>E</i>)-2-hydroxy-6-oxonona-2,4,7-triene-1,9-dioate",1
+M_2_D_THREO_HYDROXY_3_CARBOXY_ISOCAPROATE[c],"(2<i>R</i>,3<i>S</i>)-3-isopropylmalate",2
+M_DIAMINO_OH_PHOSPHORIBOSYLAMINO_PYR[c],"2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one",2
+M_H2CO3[c],"carbonic acid",1
+M_CPD_1070[c],"3-maleylpyruvate",2
+M_CPD_71[c],"(25<i>R</i>)-3&alpha;,7&alpha;,12&alpha;-trihydroxy-5&beta;-cholestanoyl-CoA",1
+M_C3[c],"UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanyl-D-alanine",3
+M_Cis_delta_3_decenoyl_ACPs[c],"M_M_Cis_delta_3_decenoyl_ACPs",2
+M_D_ALANINE[c],"D-alanine",11
+M_CPD_15653[c],"(3R)-hydroxy, 6-<i>cis</i>-tridecenoyl-CoA",2
+M_CPD_577[c],"cyclohexane-1-carbonyl-CoA",1
+M_1_CHLORO_24_DINITROBENZENE[c],"1-chloro-2,4-dinitrobenzene",1
+M_CDP_D_GLUCOSE[c],"CDP-&alpha;-D-glucose",1
+M_PHOSPHORIBOSYL_AMP[c],"1-(5-phospho-&beta;-D-ribosyl)-AMP",2
+M_DATP[c],"dATP",5
+M_CPD_8985[c],"(1<i>R</i>,2<i>R</i>)-1,2-diphenylethane-1,2-diol",1
+M_CPD_9152[c],"4-chlorocatechol",2
+M_ETHANAMINE[c],"ethylamine",1
+M_GUANOSINE_5DP_3DP[c],"ppGpp",2
+M_CPD_9612[c],"caldariellaquinone",1
+M_GLUTARYL_COA[c],"glutaryl-CoA",1
+M_Demethylated_Ubiquinols[c],"M_M_Demethylated_Ubiquinols",3
+M_NIACINE[c],"nicotinate",5
+M_CPD_609[c],"P<sup>1</sup>,P<sup>4</sup>-<i>bis</i>(5'-guanosyl) tetraphosphate",1
+M_CARPCOA[c],"M_M_CARPCOA",2
+M_L_EPINEPHRINE[c],"(R)-adrenaline",1
+M_CPD_10796[c],"2,3-dihydroxy-<i>trans</i>-cinnamate",1
+M_6_CHQ[c],"6-chlorohydroxyquinol",2
+M_AMINO_ACETONE[c],"aminoacetone",1
+M_FUM[c],"fumarate",12
+M_CPD_110[c],"salicylate",3
+M_DEOXYCYTIDINE[c],"2'-deoxycytidine",1
+M_DCDP[c],"dCDP",3
+M_HCN[c],"hydrogen cyanide",1
+M_N_ACETYL_D_GLUCOSAMINE_6_P[c],"M_M_N_ACETYL_D_GLUCOSAMINE_6_P",2
+M_CPD_15121[c],"5-fluorocytosine",1
+M_OXALACETIC_ACID[c],"oxaloacetate",12
+M_CPD_12259[c],"a peptidoglycan dimer (S. aureus)",2
+M_AICAR[c],"5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide",4
+M_D_ALA_D_ALA[c],"D-alanyl-D-alanine",3
+M_DEPHOSPHO_COA[c],"3'-dephospho-CoA",2
+M_D_ALTRONATE[c],"D-altronate",1
+M_ACETYL_GLU[c],"<i>N</i>-acetyl-L-glutamate",3
+M_CPD_16176[c],"4-[(E)-2-(methylamino)ethenyl]phenol",1
+M_BIPHENYL_23_DIOL[c],"biphenyl-2,3-diol",2
+M_2_AMINOMUCONATE_SEMIALDEHYDE[c],"(2Z,4E)-2-amino-6-oxohexa-2,4-dienoate",2
+M_CPD_14931[c],"M_M_CPD_14931",1
+M_L_PHOSPHATIDATE_C18[c],"M_M_L_PHOSPHATIDATE_C18",2
+M_L_GULONATE[c],"L-gulonate",1
+M_Reduced_cytochromes[c],"M_M_Reduced_cytochromes",9
+M_LAUROYLCOA_CPD[c],"lauroyl-CoA",2
+M_GLN[c],"L-glutamine",16
+M_DEOXYGUANOSINE[c],"2'-deoxyguanosine",3
+M_3_HYDROXY_ISOVALERYL_COA[c],"3-hydroxyisovaleryl-CoA",1
+M_UDP_N_ACETYLMURAMATE[c],"UDP-<i>N</i>-acetyl-&alpha;-D-muramate",2
+M_CPD_14926[c],"phytenal",2
+M_L_1_PHOSPHATIDYL_SERINE_C15[c],"M_M_L_1_PHOSPHATIDYL_SERINE_C15",2
+M_CPD_12310[c],"a peptidoglycan dimer (E. faeciums)",2
+M_5_FORMYL_THF[c],"(6<i>S</i>)-5-formyl-tetrahydrofolate mono-L-glutamate",1
+M_CPD_8782[c],"2-hydroxy-6-oxohepta-2,4-dienoate",1
+M_PRO[c],"L-proline",6
+M_2_Hexadecenoyl_ACPs[c],"M_M_2_Hexadecenoyl_ACPs",2
+M_CPD_787[c],"(2Z,4Z)-2-hydroxyhepta-2,4-dienedioate",2
+M_GLC_6_P[c],"&beta;-D-glucose 6-phosphate",6
+M_SEPO3[c],"selenophosphate",1
+M_LEU[c],"L-leucine",4
+M_5_KETO_4_DEOXY_D_GLUCARATE[c],"5-dehydro-4-deoxy-D-glucarate",3
+M_ANTHRANILATE[c],"anthranilate",5
+M_CPD_1121[c],"D-myo-inositol 1,2-cyclic phosphate",1
+M_LINOLENIC_ACID[c],"&alpha;-linolenate",1
+M_L_1_PHOSPHATIDYL_GLYCEROL_P_C15[c],"M_M_L_1_PHOSPHATIDYL_GLYCEROL_P_C15",2
+M_PROPIONATE[c],"propanoate",5
+M_D_METHYL_MALONYL_COA[c],"(S)-methylmalonyl-CoA",3
+M_ACETOIN[c],"M_M_ACETOIN",2
+M_CPD_551[c],"phosphonoacetaldehyde",1
+M_GLYCEROL_3P[c],"<i>sn</i>-glycerol 3-phosphate",26
+M_D_GLUCURONOLACTONE[c],"D-glucurono-6,3-lactone",2
+M_SS_DIMETHYL_BETA_PROPIOTHETIN[c],"dimethylsulfoniopropanoate",1
+M_CH4[c],"methane",1
+M_UDP_AAGM_DIAMINOHEPTANEDIOATE[c],"UDP-<I>N</I>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimelate",2
+M_CPD_12502[c],"(2E,4E)-6-(2-aminophenyl)-2-hydroxy-6-oxohexa-2,4-dienoate",1
+M_CPD0_2106[c],"3-oxooctanoyl-CoA",1
+M_2_AMINO_MUCONATE[c],"(2Z,4E)-2-aminomuconate",1
+M_N_ALPHA_ACETYLORNITHINE[c],"<i>N</i>-acetyl-L-ornithine",3
+M_3_HYDROXY_L_KYNURENINE[c],"3-hydroxy-L-kynurenine",1
+M_TARTRONATE_S_ALD[c],"tartronate semialdehyde",4
+M_ACYL_SN_GLYCEROL_3P_C17[c],"M_M_ACYL_SN_GLYCEROL_3P_C17",2
+M_KDO2_LIPID_A[c],"&alpha;-D-Kdo-(2&rarr;4)-&alpha;-D-Kdo-(2&rarr;6)-lipid A",2
+M_N_CARBAMOYLGLYCINE[c],"<i>N</i>-carbamoylglycine",1
+M_L_ASPARTATE[c],"L-aspartate",17
+M_3_HYDROXYBENZOATE[c],"3-hydroxybenzoate",2
+M_NICOTINATE_NUCLEOTIDE[c],"&beta;-nicotinate D-ribonucleotide",5
+M_PG_C17_1[c],"M_M_PG_C17_1",4
+M_Pyruvate_dehydrogenase_lipoate[c],"M_M_Pyruvate_dehydrogenase_lipoate",3
+M_DIMETHYL_GLYCINE[c],"<i>N,N</i>-dimethylglycine",1
+M_CPD_30[c],"4-acetamidobutanal",2
+M_N_ACETYL_D_GALACTOSAMINE_6_PHOSPHATE[c],"<i>N</i>-acetyl-D-galactosamine 6-phosphate",1
+M_L_1_PHOSPHATIDYL_GLYCEROL_P_C18[c],"M_M_L_1_PHOSPHATIDYL_GLYCEROL_P_C18",2
+M_LysW_L_glutamate_5_phosphate[c],"M_M_LysW_L_glutamate_5_phosphate",1
+M_5_METHYLTHIOADENOSINE[c],"<i>S</i>-methyl-5'-thioadenosine",1
+M_CPD_707[c],"campesterol",1
+M_cis_vaccen_2_enoyl_ACPs[c],"M_M_cis_vaccen_2_enoyl_ACPs",2
+M_CPD_708[c],"campest-4-en-3&beta;-ol",1
+M_ACETALD[c],"acetaldehyde",12
+M_CPD_7695[c],"<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetyl-&beta;-D-glucosaminyl)muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanyl-D-alanine",1
+M_CIS_CIS_MUCONATE[c],"cis,cis-muconate",3
+M_FRUCTOSE_16_DIPHOSPHATE[c],"&beta;-D-fructose 1,6-bisphosphate",2
+M_UDP_N_ACETYL_D_GALACTOSAMINE[c],"M_M_UDP_N_ACETYL_D_GALACTOSAMINE",2
+M_5_PHOSPHORIBOSYL_N_FORMYLGLYCINEAMIDINE[c],"2-(formamido)-N<sup>1</sup>-(5-phospho-&beta;-D-ribosyl)acetamidine",2
+M_CPD_12321[c],"15-<i>cis</i>-phytoene",2
+M_CPD_12278[c],"<i>N</i>-formylmaleamate",2
+M_R_3_hydroxypentadecanoyl_ACPs[c],"M_M_R_3_hydroxypentadecanoyl_ACPs",2
+M_Dodecanoyl_ACPs[c],"M_M_Dodecanoyl_ACPs",5
+M_CPD_142[c],"2-(4-hydroxyphenyl)-2-oxoacetate",1
+M_OCTAPRENYL_METHYL_METHOXY_BENZQ[c],"6-methoxy-3-methyl-2-<i>all-trans</i>-octaprenyl-1,4-benzoquinol",3
+M_HOMOGENTISATE[c],"homogentisate",2
+M_CPD_245[c],"3-carboxy-<i>cis</i>,<i>cis</i>-muconate",2
+M_CPD_203[c],"biotinyl-CoA",1
+M_OH_MYRISTOYL[c],"UDP-2-N,3-O-bis[(3R)-3-hydroxytetradecanoyl]-&alpha;-D-glucosamine",3
+M_GLYCEROL[c],"glycerol",15
+M_OXIDIZED_GLUTATHIONE[c],"glutathione disulfide",2
+M_CPD_3486[c],"3-chlorobenzoate",1
+M_4_fluorocyclohexadiene_ciscis_12_diol_1_carboxylate[c],"M_M_4_fluorocyclohexadiene_ciscis_12_diol_1_carboxylate",2
+M_3_oxo_pentadecanoyl_ACPs[c],"M_M_3_oxo_pentadecanoyl_ACPs",2
+M_CPD_11997[c],"decaprenyl-diphospho-<i>N</i>-acetylmuramoyl-pentapeptide",1
+M_INOSINE[c],"inosine",3
+M_DTDP_RHAMNOSE[c],"dTDP-&beta;-L-rhamnose",1
+M_CPD_15184[c],"N-acetyl-&alpha;-<i>D</i>-muramoyl-<i>L</i>-alanine(1-)",1
+M_CLPN_C17_1[c],"M_M_CLPN_C17_1",3
+M_3_oxo_tridecanoyl_ACPs[c],"M_M_3_oxo_tridecanoyl_ACPs",2
+M_S2O3[c],"thiosulfate",3
+M_Oxidized_ferredoxins[c],"M_M_Oxidized_ferredoxins",6
+M_ACYL_SN_GLYCEROL_3P_C12[c],"M_M_ACYL_SN_GLYCEROL_3P_C12",2
+M_THREO_DS_ISO_CITRATE[c],"D-<i>threo</i>-isocitrate",5
+M_CPD_15657[c],"(3R)-hydroxy-undecanoyl-CoA",1
+M_S_2_INDOL_3_YLACETYL_COA[c],"(indol-3 yl)acetyl-CoA",1
+M_Butanoyl_ACPs[c],"M_M_Butanoyl_ACPs",2
+M_CPD0_1327[c],"5-fluorouracil",1
+M_CPD_2743[c],"nicotine-1'-N-oxide",1
+M_Demethylmenaquinols[c],"M_M_Demethylmenaquinols",1
+M_PG_C18_1[c],"M_M_PG_C18_1",4
+M_GLC[c],"&beta;-D-glucopyranose",14
+M_NICOTINAMIDE_NUCLEOTIDE[c],"&beta;-nicotinamide D-ribonucleotide",3
+M_CPD0_2123[c],"3-oxodecanoyl-CoA",1
+M_EPISTEROL[c],"episterol",1
+M_3_UREIDO_ISOBUTYRATE[c],"3-(carbamoylamino)-2-methylpropanoate",1
+M_OROTATE[c],"orotate",2
+M_INDOLE_ACETALDEHYDE[c],"(indol-3-yl)acetaldehyde",3
+M_MALTOTETRAOSE[c],"maltotetraose",3
+M_THR[c],"L-threonine",8
+M_N_ACETYL_GLUTAMYL_P[c],"<i>N</i>-acetylglutamyl-phosphate",2
+M_VAL[c],"L-valine",4
+M_CDPDIACYLGLYCEROL_C15[c],"M_M_CDPDIACYLGLYCEROL_C15",3
+M_THYMIDINE[c],"thymidine",2
+M_L_1_GLYCEROPHOSPHORYLETHANOL_AMINE[c],"<i>sn</i>-glycero-3-phosphoethanolamine",2
+M_CPD_633[c],"gentisate",3
+M_CPD_14877[c],"3-acetylamino-4-hydroxybenzoate",1
+M_BETA_HYDROXYANDROST_5_EN_17_ONE_3_SULFAT[c],"3-&beta;-hydroxyandrost-5-en-17-one 3-sulfate",1
+M_CPD_12295[c],"<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-isoglutaminyl-N-(&beta;-D-asparaginyl)-L-lysyl-D-alanyl-D-alanine",1
+M_Thi_S[c],"M_M_Thi_S",2
+M_CPD_15530[c],"<i>aldehydo</i>-D-glucuronate",1
+M_CPD_11671[c],"5-hydroxytryptophol",1
+M_CPD0_2482[c],"ferric-[<i>N</i>-(2,3-dihydroxybenzoyl)-L-serine trimer] complex",1
+M_CPD_15690[c],"(3R)-hydroxy-5-<i>trans</i>-dodecenoyl-CoA",1
+M_GAMMA_BUTYROBETAINE[c],"&gamma;-butyrobetaine",1
+M_CANAVANINOSUCCINATE[c],"canavaninosuccinate",2
+M_NITRATE_p[c],"M_M_NITRATE_p",3
+M_BETAINE[c],"glycine betaine",2
+M_L_CITRULLINE[c],"L-citrulline",3
+M_Reduced_pyrroloquinoline_quinone[c],"M_M_Reduced_pyrroloquinoline_quinone",1
+M_CPD0_2365[c],"M_M_CPD0_2365",2
+M_DIHYDROXY_BUTANONE_P[c],"1-deoxy-L-glycero-tetrulose 4-phosphate",2
+M_RIBULOSE_5P[c],"D-ribulose 5-phosphate",5
+M_L_GLUTAMATE_GAMMA_SEMIALDEHYDE[c],"L-glutamate-5-semialdehyde",3
+M_GLYCERALD[c],"D-glyceraldehyde",4
+M_OXALYL_COA[c],"oxalyl-CoA",2
+M_NITROUS_OXIDE_p[c],"M_M_NITROUS_OXIDE_p",2
+M_CPD0_1163[c],"(S)-3-hydroxy-(5Z)-tetradecenoyl-CoA",1
+M_DADP[c],"dADP",3
+M_CPD_12018[c],"5-methoxytryptamine",1
+M_4_AMINO_BUTYRATE[c],"4-aminobutanoate",1
+M_VANILLYL_MANDELATE[c],"vanillyl mandelate",1
+M_CPD_783[c],"2-hydroxy-5-carboxymethylmuconate semialdehyde",2
+M_CPDQT_273[c],"gluconapin",1
+M_HYDRPHENYLAC_CPD[c],"(4-hydroxyphenyl)acetaldehyde",3
+M_PHENYLGLYOXYLATE[c],"phenylglyoxylate",2
+M_CPD_11878[c],"3,4-dihydroxyphenylglycol",1
+M_CPD_15686[c],"(3R)-hydroxy- 5-<i>cis</i>, 7-<i>trans</i>-tetradecadienoyl-CoA",1
+M_CPD_12709[c],"fluoroacetate",2
+M_CPD_1130[c],"3-ethylmalate",1
+M_2_HYDROXYBUTANOIC_ACID[c],"M_M_2_HYDROXYBUTANOIC_ACID",2
+M_PAPS[c],"3'-phosphoadenylyl-sulfate",1
+M_NITRATE[c],"nitrate",4
+M_Oxidized_cytochromes[c],"M_M_Oxidized_cytochromes",9
+M_CPD0_1958[c],"3-(<i>N</i>-morpholino)propanesulfonate",1
+M_D_SEDOHEPTULOSE_7_P[c],"M_M_D_SEDOHEPTULOSE_7_P",4
+M_S_ADENOSYL_4_METHYLTHIO_2_OXOBUTANOATE[c],"S-adenosyl-4-methylsulfanyl-2-oxobutanoate",1
+M_23_DIPHOSPHOGLYCERATE[c],"2,3-diphospho-D-glycerate",2
+M_DIHYDRO_NEO_PTERIN[c],"7,8-dihydroneopterin",2
+M_CLPN_C17[c],"M_M_CLPN_C17",3
+M_MALONYL_COA[c],"malonyl-CoA",4
+M_CANAVANINE[c],"L-canavanine",1
+M_NITRITE_p[c],"M_M_NITRITE_p",5
+M_Cis_vaccenoyl_ACPs[c],"M_M_Cis_vaccenoyl_ACPs",3
+M_CPD_3762[c],"5-amino-4-imidazolecarboxyamide",1
+M_C6[c],"<i>ditrans,octacis</i>-undecaprenyldiphospho-[(<i>N</i>-acetyl-&beta;-D-glucosaminyl)-(1,4)-]-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimeloyl-D-alanyl-D-alanine",2
+M_FRUCTOSE_6P[c],"&beta;-D-fructofuranose 6-phosphate",10
+M_3_INDOLYLGLYCOLALDEHYDE[c],"indole-3-glycol aldehyde",1
+M_ARABINOSE_5P[c],"<i>aldehydo</i>-D-arabinose 5-phosphate",2
+M_UDP[c],"UDP",10
+M_D_BETA_D_HEPTOSE_17_DIPHOSPHATE[c],"D-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose 1,7-bisphosphate",1
+M_CDPDIACYLGLYCEROL_C16[c],"M_M_CDPDIACYLGLYCEROL_C16",3
+M_2H6OH2_4DIENOATE[c],"(2E,4Z)-2-hydroxy-6-oxohepta-2,4-dienoate",1
+M_THIAMINE_PYROPHOSPHATE[c],"thiamine diphosphate",5
+M_DUDP[c],"dUDP",2
+M_DEHYDROQUINATE[c],"3-dehydroquinate",3
+M_ACETYL_COA[c],"acetyl-CoA",42
+M_L_1_PHOSPHATIDYL_GLYCEROL_P_C16_1[c],"M_M_L_1_PHOSPHATIDYL_GLYCEROL_P_C16_1",2
+M_L_ORNITHINE[c],"L-ornithine",4
+M_TETRA_H_BIOPTERIN[c],"M_M_TETRA_H_BIOPTERIN",1
+M_CPD0_2232[c],"(S)-3-hydroxyhexadecanoyl-CoA",1
+M_GLUCOTROPEOLIN[c],"glucotropaeolin",1
+M_ACYL_SN_GLYCEROL_3P_C16_1[c],"M_M_ACYL_SN_GLYCEROL_3P_C16_1",2
+M_S_ACETYLDIHYDROLIPOAMIDE[c],"<i>S</i>-acetyldihydrolipoamide",1
+M_PHYTOENE[c],"all-<i>trans</i>-phytoene",1
+M_COB_I_ALAMIN[c],"cob(I)alamin",1
+M_R_3_Hydroxyheptadecanoyl_ACPs[c],"M_M_R_3_Hydroxyheptadecanoyl_ACPs",2
+M_5_AMINO_LEVULINATE[c],"5-aminolevulinate",2
+M_NACMUR[c],"M_M_NACMUR",1
+M_CPD_6972[c],"4-(2'-carboxyphenyl)-4-oxobutyryl-CoA",1
+M_4_hydroxybenzoate[c],"4-hydroxybenzoate",6
+M_L_ALA_GAMMA_D_GLU_DAP[c],"L-alanyl-&gamma;-D-glutamyl-<i>meso</i>-diaminopimelate",1
+M_S_3_HYDROXYBUTANOYL_COA[c],"(<i>S</i>)-3-hydroxybutanoyl-CoA",2
+M_R_3_hydroxyheptanoyl_ACPs[c],"M_M_R_3_hydroxyheptanoyl_ACPs",2
+M_3_KETO_ADIPYL_COA[c],"3-oxoadipyl-CoA",3
+M_HYPOXANTHINE[c],"hypoxanthine",4
+M_SUC_COA[c],"succinyl-CoA",9
+M_CPD_335[c],"(<i>R</i>)-3-hydroxybutanoate",4
+M_8_AMINO_7_OXONONANOATE[c],"8-amino-7-oxononanoate",2
+M_PE_C15[c],"M_M_PE_C15",3
+M_PG_C17[c],"M_M_PG_C17",4
+M_XANTHOSINE_5_PHOSPHATE[c],"XMP",3
+M_R_3_hydroxystearoyl_ACPs[c],"M_M_R_3_hydroxystearoyl_ACPs",2
+M_FAD[c],"FAD",16
+M_PHENYL_PYRUVATE[c],"3-phenyl-2-oxopropanoate",4
+M_MG2[c],"Mg<SUP>2+</SUP>",2
+M_CPD0_2244[c],"(<i>S</i>)-3-hydroxydecanoyl-CoA",2
+M_S_ADENOSYLMETHIONINAMINE[c],"<i>S</i>-adenosyl 3-(methylsulfanyl)propylamine",1
+M_DI_H_OROTATE[c],"(<i>S</i>)-dihydroorotate",2
+M_CPD_13533[c],"(3<i>R</i>)-3-hydroxypentanoyl-CoA",1
+M_CPD_1772[c],"2-aminoacetaldehyde",1
+M_2_OCTAPRENYLPHENOL[c],"2-octaprenylphenol",3
+M_CPD0_2015[c],"<i>N</i>-acetyl-L-methionine",1
+M_3_BETA_HYDROXYANDROST_5_EN_17_ONE[c],"3-&beta;-hydroxyandrost-5-en-17-one",1
+M_LIPIDII[c],"M_M_LIPIDII",2
+M_PHENYLETHYLAMINE[c],"2-phenylethylamine",1
+M_L_1_PHOSPHATIDYL_GLYCEROL_P_C16[c],"M_M_L_1_PHOSPHATIDYL_GLYCEROL_P_C16",2
+M_DIHYDROXY_ACETONE_PHOSPHATE[c],"glycerone phosphate",9
+M_17_ALPHA_HYDROXYPROGESTERONE[c],"17-&alpha;-hydroxyprogesterone",1
+M_SELENOMETHIONINE[c],"L-selenomethionine",1
+M_2_Heptadecenoyl_ACPs[c],"M_M_2_Heptadecenoyl_ACPs",2
+M_COBINAMIDE[c],"cob(I)inamide",1
+M_CPD_10019[c],"(5S)-5-benzyl-hydantoin",1
+M_GDP_MANNOSE[c],"GDP-&alpha;-D-mannose",2
+M_Ox_Thioredoxin[c],"M_M_Ox_Thioredoxin",8
+M_LysW_L_glutamate_5_semialdehyde[c],"M_M_LysW_L_glutamate_5_semialdehyde",1
+M_7_AMINOMETHYL_7_DEAZAGUANINE[c],"preQ<sub>1</sub>",1
+M_R_3_hydroxytridecanoyl_ACPs[c],"M_M_R_3_hydroxytridecanoyl_ACPs",2
+M_Decanoyl_ACPs[c],"M_M_Decanoyl_ACPs",2
+M_UDP_AA_GLUTAMATE[c],"UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-D-glutamate",2
+M_CPD_564[c],"<i>S</i>-ribosyl-L-homocysteine",1
+M_CLPN_C14[c],"M_M_CLPN_C14",3
+M_3_oxo_valeryl_ACPs[c],"M_M_3_oxo_valeryl_ACPs",2
+M_CPD_10808[c],"2-amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one",1
+M_GALACTITOL[c],"galactitol",1
+M_Pent_2_enoyl_ACPs[c],"M_M_Pent_2_enoyl_ACPs",2
+M_L_BETA_ASPARTYL_P[c],"L-aspartyl-4-phosphate",2
+M_CPD0_2231[c],"dIDP",1
+M_1_ETHYLADENINE[c],"<i>N</i><sup>1</sup>-ethyladenine",1
+M_Ubiquinones[c],"M_M_Ubiquinones",16
+M_UDP_MANNAC[c],"UDP-<i>N</i>-acetyl-&alpha;-D-mannosamine",1
+M_PHOSPHORIBOSYL_ATP[c],"1-(5-phospho-&beta;-D-ribosyl)-ATP",2
+M_NICOTINAMIDE_RIBOSE[c],"1-(&beta;-D ribofuranosyl)nicotinamide",1
+M_CPD_13794[c],"3-oxo-24-ethyl-cholest-4-ene",1
+M_BISOHMYR_GLC[c],"lipid A disaccharide (<i>E. coli</i>)",2
+M_CPD1G_1354[c],"trehalose-trans-keto-mono-mycolate",1
+M_DIMETHYL_D_RIBITYL_LUMAZINE[c],"6,7-dimethyl-8-(1-D-ribityl)lumazine",2
+M_PE_C18_1[c],"M_M_PE_C18_1",3
+M_HYDANTOIN[c],"hydantoin",1
+M_LIPOIC_ACID[c],"(<i>R</i>)-lipoate",1
+M_4_HYDROXYPHENYLACETATE[c],"(4-hydroxyphenyl)acetate",2
+M_DGTP[c],"dGTP",4
+M_PROTON[c],"H<SUP>+</SUP>",649
+M_GLUCONATE[c],"D-gluconate",5
+M_CPD_207[c],"phenylacetyl-CoA",2
+M_ILE[c],"L-isoleucine",4
+M_CPD_476[c],"4-(2-aminophenyl)-2,4-dioxobutanoate",2
+M_3_5_ADP[c],"adenosine 3',5'-bisphosphate",2
+M_Trans_D3_cis_D7_pentadecenoyl_ACPs[c],"M_M_Trans_D3_cis_D7_pentadecenoyl_ACPs",2
+M_CDPDIACYLGLYCEROL_C17_1[c],"M_M_CDPDIACYLGLYCEROL_C17_1",3
+M_2_KETO_3_DEOXY_6_P_GLUCONATE[c],"2-dehydro-3-deoxy-D-gluconate 6-phosphate",3
+M_CPD_377[c],"2-keto-D-gluconate",2
+M_CPD_12173[c],"(<i>S</i>)-3-hydroxy-isobutanoyl-CoA",1
+M_GAMMA_BUTYROBETAINYL_COA[c],"&gamma;-butyrobetainyl-CoA",1
+M_2_AMINOACRYLATE[c],"2-aminoprop-2-enoate",3
+M_MALEATE[c],"maleate",2
+M_L_PHOSPHATIDATE_C17[c],"M_M_L_PHOSPHATIDATE_C17",2
+M_PRPP[c],"5-phospho-&alpha;-D-ribose 1-diphosphate",12
+M_CONIFERYL_ALDEHYDE[c],"coniferaldehyde",1
+M_DEOXYADENOSINE[c],"2'-deoxyadenosine",2
+M_CARBON_DIOXIDE[c],"CO<SUB>2</SUB>",119
+M_SUPER_OXIDE[c],"superoxide",2
+M_N_FORMYLKYNURENINE[c],"<i>N</i>-Formyl-L-kynurenine",2
+M_DUMP[c],"dUMP",3
+M_L_PHOSPHATIDATE_C17_1[c],"M_M_L_PHOSPHATIDATE_C17_1",2
+M_Crotonyl_ACPs[c],"M_M_Crotonyl_ACPs",2
+M_CPD_195[c],"octanoate",1
+M_b_Keto_cis_D5_tridecenoyl_ACPs[c],"M_M_b_Keto_cis_D5_tridecenoyl_ACPs",2
+M_CPD_1134[c],"2-dehydro-3-deoxy-L-arabinonate",1
+M_SPERMIDINE[c],"spermidine",3
+M_CPD_12258[c],"UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanine",2
+M_CPD_10660[c],"3-chlorobenzaldehyde",1
+M_CPD1G_773[c],"6-O-cis-keto-mycolyl-trehalose 6-phosphate",1
+M_CL_[c],"chloride",4
+M_4_MALEYL_ACETOACETATE[c],"4-maleyl-acetoacetate",2
+M_3_oxo_undecanoyl_ACPs[c],"M_M_3_oxo_undecanoyl_ACPs",2
+M_OXOPENTENOATE[c],"2-oxopent-4-enoate",5
+M_NADPH[c],"NADPH",95
+M_CPD_11998[c],"decaprenyl-pyrophosphoryl-(<i>N</i>-acetylglucosamine)-<i>N</i>-acetylmuramyl-(pentapeptide)",1
+M_CPD_13694[c],"24-hydroxy-3-oxocholest-4-en-26-oyl-CoA",1
+M_CPD_10546[c],"methyl (indol-3-yl)acetate",1
+M_PORPHOBILINOGEN[c],"porphobilinogen",2
+M_MALONATE_S_ALD[c],"3-oxopropanoate",3
+M_CPD_12279[c],"2-iminoacetate",2
+M_CPD_558[c],"pimeloyl-CoA",3
+M_CPD66_27[c],"pregn-5-ene-3,20-dione-17-ol",1
+M_PYRUVATE[c],"pyruvate",39
+M_PROGESTERONE[c],"progesterone",1
+M_CPD_15652[c],"(3R)-hydroxy, 6-<i>trans</i>-tridecenoyl-CoA",2
+M_HCO3[c],"hydrogencarbonate",10
+M_ISOBUTYRYL_COA[c],"isobutanoyl-CoA",1
+M_3_P_SERINE[c],"<i>O</i>-phospho-L-serine",2
+M_3_4_DIHYDROXYBENZOATE[c],"protocatechuate",4
+M_PANTOTHENATE[c],"(<i>R</i>)-pantothenate",3
+M_UDP_ACETYL_CARBOXYVINYL_GLUCOSAMINE[c],"UDP-<i>N</i>-acetyl-&alpha;-D-glucosamine-enolpyruvate",2
+M_DTDP_DEOH_DEOXY_MANNOSE[c],"dTDP-4-dehydro-&beta;-L-rhamnose",2
+M_Trans_D3_cis_D5_tridecenoyl_ACPs[c],"M_M_Trans_D3_cis_D5_tridecenoyl_ACPs",2
+M_CPD_13711[c],"3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoate",1
+M_BISOHMYR_GLUCOSAMINYL_1P[c],"lipid X",2
+M_PE_C14[c],"M_M_PE_C14",3
+M_MALTOPENTAOSE[c],"maltopentaose",2
+M_CPD_10576[c],"4-chlorosalicylate",1
+M_OCTAPRENYL_DIPHOSPHATE[c],"all-<i>trans</i>-octaprenyl diphosphate",2
+M_GALACTOSE[c],"&beta;-D-galactopyranose",2
+M_6_PYRUVOYL_5678_TETRAHYDROPTERIN[c],"(6R)-6-pyruvoyl-5,6,7,8-tetrahydropterin",1
+M_METHYL_MALONYL_COA[c],"(R)-methylmalonyl-CoA",2
+M_ANDROST4ENE[c],"androst-4-ene-3,17-dione",3
+M_AMMONIUM[c],"ammonium",65
+M_DEOXY_D_RIBOSE_1_PHOSPHATE[c],"2-deoxy-&alpha;-D-ribose 1-phosphate",2
+M_CPD_13040[c],"1,2-dibutyrin",1
+M_CPD_14928[c],"phytenoyl-CoA",1
+M_CPD0_2364[c],"3-oxo-5,6-didehydrosuberyl-CoA",2
+M_CPD_14298[c],"2,6-dioxo-6-phenylhexa-3-enoate",2
+M_3_oxo_cis_D9_heptadecenoyl_ACPs[c],"M_M_3_oxo_cis_D9_heptadecenoyl_ACPs",2
+M_CPD_15687[c],"5-<i>cis</i>, 7-<i>trans</i>-3-oxo-tetradecadienoyl-CoA",1
+M_ALLANTOATE[c],"allantoate",2
+M_CPD_8984[c],"<i>cis</i>-stilbene oxide",1
+M_PHE[c],"L-phenylalanine",4
+M_P_RIBOSYL_4_SUCCCARB_AMINOIMIDAZOLE[c],"5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole",2
+M_CPD_469[c],"<i>N</i>-acetyl-L-glutamate 5-semialdehyde",2
+M_L_1_PHOSPHATIDYL_SERINE_C18_1[c],"M_M_L_1_PHOSPHATIDYL_SERINE_C18_1",2
+M_CPD_13357[c],"(2<i>R</i>)-2,3-dihydroxy-3-methylbutanoate",2
+M_Ox_Glutaredoxins[c],"M_M_Ox_Glutaredoxins",1
+M_4_CARBOXYMETHYLENEBUT_2_EN_4_OLIDE[c],"<i>cis</i>-dienelactone",1
+M_CDPDIACYLGLYCEROL_C14[c],"M_M_CDPDIACYLGLYCEROL_C14",3
+M_ADENOSINE[c],"adenosine",5
+M_IMIDAZOLE_ACETOL_P[c],"imidazole acetol-phosphate",2
+M_CPD_10823[c],"4-methylmuconolactone",1
+M_Pentadec_2_enoyl_ACPs[c],"M_M_Pentadec_2_enoyl_ACPs",2
+M_L_GULONO_1_4_LACTONE[c],"L-gulono-1,4-lactone",2
+M_CPD_12710[c],"4-fluorothreonine",1
+M_N1_METHYLADENINE[c],"<i>N</i><sup>1</sup>-methyladenine",1
+M_AMINO_HYDROXYMETHYL_METHYLPYRIMIDINE_PP[c],"4-amino-2-methyl-5-(diphosphooxymethyl)pyrimidine",4
+M_CPD_741[c],"M_M_CPD_741",3
+M_CPD_342[c],"5&alpha;-androstane-3,17-dione",2
+M_3_Oxo_Septanoyl_ACPs[c],"M_M_3_Oxo_Septanoyl_ACPs",2
+M_FERULOYL_COA[c],"<i>trans</i>-feruloyl-CoA",1
+M_3_METHYL_CROTONYL_COA[c],"3-methylcrotonyl-CoA",1
+M_CHOLANATE2[c],"3&alpha;,12&alpha;-dihydroxy-7-oxo-5&beta;-cholan-24-oate",1
+M_CPD_68[c],"1-aminocyclopropane-1-carboxylate",1
+M_CPD_11518[c],"3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-octa-2-enoyl)-CoA",1
+M_CPD_12199[c],"3S-(4-hydroxyphenyl)-3-hydroxy-propanoyl-CoA",2
+M_CPD_602[c],"5-amino-6-(5-phospho-D-ribosylamino)uracil",2
+M_AGMATHINE[c],"agmatine",2
+M_UDP_OHMYR_GLUCOSAMINE[c],"UDP-3-<i>O</i>-(3-hydroxymyristoyl)-&alpha;-D-glucosamine",2
+M_CARBS[c],"M_M_CARBS",2
+M_3_Hydroxy_Septanoyl_ACPs[c],"M_M_3_Hydroxy_Septanoyl_ACPs",2
+M_4_PHOSPHONOOXY_THREONINE[c],"4-phosphooxy-L-threonine",3
+M_THIAMINE_P[c],"thiamine phosphate",5
+M_CPD_15675[c],"2-<i>trans</i>-6-<i>trans</i>-tridecadienoyl-CoA",1
+M_2_TRANS6_TRANS_FARNESAL[c],"(2<i>E</i>,6<i>E</i>)-farnesal",1
+M_CPD_1086[c],"5-amino-6-(5-phospho-D-ribitylamino)uracil",2
+M_Tridec_2_enoyl_ACPs[c],"M_M_Tridec_2_enoyl_ACPs",2
+M_L_1_PHOSPHATIDYL_SERINE_C17_1[c],"M_M_L_1_PHOSPHATIDYL_SERINE_C17_1",2
+M_ADIPATE_COA[c],"M_M_ADIPATE_COA",2
+M_4_HYDROXY_BUTYRATE[c],"4-hydroxybutanoate",2
+M_SUC[c],"succinate",17
+M_L_1_PHOSPHATIDYL_SERINE_C16[c],"M_M_L_1_PHOSPHATIDYL_SERINE_C16",2
+M_DEOXYINOSINE[c],"2'-deoxyinosine",1
+M_CPD_12708[c],"fluoroacetaldehyde",2
+M_3_oxo_cis_D9_hexadecenoyl_ACPs[c],"M_M_3_oxo_cis_D9_hexadecenoyl_ACPs",2
+M_O_UREIDOHOMOSERINE[c],"O-ureido-L-homoserine",1
+M_ITP[c],"ITP",2
+M_KDO_8P[c],"3-deoxy-D-<i>manno</i>-octulosonate 8-phosphate",2
+M_4_AMINO_4_DEOXYCHORISMATE[c],"4-amino-4-deoxychorismate",2
+M_3_oxo_cis_D7_tetradecenoyl_ACPs[c],"M_M_3_oxo_cis_D7_tetradecenoyl_ACPs",2
+M_CPD_67[c],"2-phosphoglycolate",1
+M_ACETAMIDE[c],"acetamide",1
+M_PROPIONAMIDE[c],"propionamide",1
+M_PG_C16_1[c],"M_M_PG_C16_1",4
+M_Trans_D3_cis_D9_hexadecenoyl_ACPs[c],"M_M_Trans_D3_cis_D9_hexadecenoyl_ACPs",2
+M_R_3_hydroxydodecanoyl_ACPs[c],"M_M_R_3_hydroxydodecanoyl_ACPs",2
+M_P3I[c],"triphosphate",6
+M_ISOVALERYL_COA[c],"isovaleryl-CoA",1
+M_b_Hydroxy_cis_D5_tridecenoyl_ACPs[c],"M_M_b_Hydroxy_cis_D5_tridecenoyl_ACPs",2
+M_PYRROLINE_HYDROXY_CARBOXYLATE[c],"(3<i>R</i>,5<i>S</i>)-3-hydroxy-1-pyrroline-5-carboxylate",1
+M_MALEAMATE[c],"maleamate",2
+M_25_DIDEHYDRO_D_GLUCONATE[c],"2,5-didehydro-D-gluconate",1
+M_Heptadecanoyl_ACPs[c],"M_M_Heptadecanoyl_ACPs",3
+M_CPD0_2105[c],"3-oxododecanoyl-CoA",1
+M_CPD_582[c],"guanylyl molybdenum cofactor",1
+M_CIT[c],"citrate",4
+M_SULFO_CYSTEINE[c],"<i>S</i>-sulfo-L-cysteine",1
+M_MESO_DIAMINOPIMELATE[c],"<i>meso</i>-diaminopimelate",3
+M_CPD_11497[c],"3-methoxy-4-hydroxyphenylglycol",1
+M_CPD0_881[c],"<i>N</i>-acetyl-D-muramate 6-phosphate",1
+M_7_CYANO_7_DEAZAGUANINE[c],"preQ<sub>0</sub>",1
+M_CPD_13793[c],"3-oxo-24-ethyl-cholest-5-ene",1
+M_CPD_11876[c],"3-methoxy-4-hydroxyphenylglycolaldehyde",4
+M_Cis_Delta7_tetradecenoyl_ACPs[c],"M_M_Cis_Delta7_tetradecenoyl_ACPs",2
+M_L_CYSTATHIONINE[c],"L-cystathionine",1
+M_Beta_hydroxydecanoyl_ACPs[c],"M_M_Beta_hydroxydecanoyl_ACPs",2
+M_PHOSPHO_ENOL_PYRUVATE[c],"phospho<i>enol</i>pyruvate",16
+M_LIPID_IV_A[c],"lipid IV<sub>A</sub>",2
+M_AMINO_RIBOSYLAMINO_1H_3H_PYR_DIONE[c],"5-amino-6-(D-ribitylamino)uracil",3
+M_PROTON_p[p],"M_M_PROTON_p",12
+M_CPD_928[c],"(2Z,2E)-2-hydroxy-6-oxo-6-(2-hydroxyphenyl)-hexa-2,4-dienoate",1
+M_Trans_D3_cis_D9_heptadecenoyl_ACPs[c],"M_M_Trans_D3_cis_D9_heptadecenoyl_ACPs",2
+M_CPD_12585[c],"(<i>2E,6E</i>)-farnesoate",1
+M_PG_C14[c],"M_M_PG_C14",4
+M_SHIKIMATE[c],"shikimate",2
+M_CPD_804[c],"(4S)-4-hydroxy-2-oxoheptanedioate",2
+M_SULFATE[c],"sulfate",7
+M_S_24_DINITROPHENYLGLUTATHIONE[c],"2,4-dinitrophenyl-S-glutathione",1
+M_PEPTIDOGLYCAN[c],"M_M_PEPTIDOGLYCAN",2
+M_ETOH[c],"ethanol",5
+M_CPD_10812[c],"7,8-dihydroneopterin 2',3'-cyclic phosphate",1
+M_AMINO_OH_HYDROXYMETHYL_DIHYDROPTERIDINE[c],"6-(hydroxymethyl)-7,8-dihydropterin",2
+M_P_AMINO_BENZOATE[c],"4-aminobenzoate",2
+M_CPD_15666[c],"2-<i>trans</i>,6-<i>cis</i>-tridecadienoyl-CoA",1
+M_Poly_Hydroxybutyrate[c],"M_M_Poly_Hydroxybutyrate",3
+M_Stearoyl_ACPs[c],"M_M_Stearoyl_ACPs",3
+M_CPD_13534[c],"3-oxopentanoyl-CoA",2
+M_4_GUANIDO_BUTYRAMIDE[c],"4-guanidinobutyramide",1
+M_Reduced_ferredoxins[c],"M_M_Reduced_ferredoxins",6
+M_ANDROSTERONE[c],"androsterone",2
+M_GAP[c],"D-glyceraldehyde 3-phosphate",10
+M_2_C_METHYL_D_ERYTHRITOL_4_PHOSPHATE[c],"2-C-methyl-D-erythritol 4-phosphate",2
+M_N_5_PHOSPHORIBOSYL_ANTHRANILATE[c],"<i>N</i>-(5-phosphoribosyl)-anthranilate",2
+M_CPD_10664[c],"5-methylsalicylate",1
+M_5_PHOSPHORIBOSYL_5_AMINOIMIDAZOLE[c],"5-amino-1-(5-phospho-&beta;-D-ribosyl)imidazole",3
+M_PYRIDOXAL_PHOSPHATE[c],"pyridoxal 5'-phosphate",3
+M_TDP[c],"dTDP",2
+M_CPD_764[c],"phosphonoacetate",1
+M_CPD_196[c],"octanoyl-CoA",1
+M_2_AMINOBENZOYL_COA[c],"anthraniloyl-CoA",3
+M_FE3[c],"Fe<SUP>3+</SUP>",2
+M_ADENOSYL_HOMO_CYS[c],"<i>S</i>-adenosyl-L-homocysteine",9
+M_3_hydroxy_cis_D7_tetraecenoyl_ACPs[c],"M_M_3_hydroxy_cis_D7_tetraecenoyl_ACPs",2
+M_C_DI_GMP[c],"cyclic di-3',5'-guanylate",1
+M_2_METHYL_ACETO_ACETYL_COA[c],"2-methylacetoacetyl-CoA",1
+M_LACTALD[c],"(<i>S</i>)-lactaldehyde",1
+M_CPD1G_332[c],"2-carboxy-cerotoyl-CoA",1
+M_TTP[c],"dTTP",3
+M_Acetoacetyl_ACPs[c],"M_M_Acetoacetyl_ACPs",2
+M_4_HYDROXY_2_KETOVALERATE[c],"(<i>S</i>)-4-hydroxy-2-oxopentanoate",2
+M_HYDROXYATRAZINE[c],"hydroxyatrazine",1
+M_GUANINE[c],"guanine",3
+M_2_3_DIHYDROXYPHENYL_PROPIONATE[c],"3-(2,3-dihydroxyphenyl)propanoate",1
+M_CPD_700[c],"ergosta-5,7,24(28)-trien-3&beta;-ol",1
+M_P_COUMAROYL_COA[c],"(<i>E</i>)-4-coumaroyl-CoA",2
+M_N_SUCCINYL_2_AMINO_6_KETOPIMELATE[c],"<i>N</i>-succinyl-2-amino-6-ketopimelate",2
+M_NITRIC_OXIDE_p[c],"M_M_NITRIC_OXIDE_p",2
+M_CPD_35[c],"4-acetamidobutanoate",1
+M_CPD_14165[c],"(2Z,2E)-2-hydroxy-6-oxo-6-(2,3-dihydroxyphenyl)-hexa-2,4-dienoate",1
+M_CPD_12724[c],"baicalein",1
+M_SEROTONIN[c],"serotonin",1
+M_Myo_inositol_monophosphates[c],"M_M_Myo_inositol_monophosphates",3
+M_CPD1G_1353[c],"trehalose-cis-keto-mono-mycolate",1
+M_CPD0_1080[c],"GlcNAc-1,6-anhMurNAc-L-Ala-&gamma;-D-Glu-DAP-D-Ala",1
+M_ALPHA_D_GALACTOSE[c],"&alpha;-D-galactopyranose",1
+M_CPD_277[c],"3-fumarylpyruvate",2
+M_D_LACTATE[c],"(<i>R</i>)-lactate",5
+M_2_ALPHA_HYDROXYETHYL_THPP[c],"2-(&alpha;-hydroxyethyl)thiamine diphosphate",2
+M_CPD_465[c],"presqualene diphosphate",1
+M_ADENOSYLCOBINAMIDE_P[c],"adenosyl-cobinamide phosphate",2
+M_CPD_14437[c],"<i>N</i>-acetyl-L-glutaminyl-L-glutamine",1
+M_CPD_763[c],"arsenite",1
+M_3_HYDROXY_3_METHYL_GLUTARYL_COA[c],"(<i>S</i>)-3-hydroxy-3-methylglutaryl-CoA",1
+M_Myristoyl_ACPs[c],"M_M_Myristoyl_ACPs",5
+M_3_oxo_cis_vaccenoyl_ACPs[c],"M_M_3_oxo_cis_vaccenoyl_ACPs",2
+M_Tridecanoyl_ACPs[c],"M_M_Tridecanoyl_ACPs",2
+M_CPD_479[c],"4-(methylsulfanyl)-2-oxobutanoate",1
+M_CPD_302[c],"D-aspartate",1
+M_D_GALACTARATE[c],"D-galactarate",1
+M_RIBOSE_5P[c],"M_M_RIBOSE_5P",7
+M_CHOLINE[c],"choline",1
+M_ENOL_PHENYLPYRUVATE[c],"enol-phenylpyruvate",1
+M_PE_C18[c],"M_M_PE_C18",3
+M_Sulfurated_Sulfur_Acceptors[c],"M_M_Sulfurated_Sulfur_Acceptors",2
+M_CPD_11520[c],"3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxooctanoyl)-CoA",1
+M_CPD_8742[c],"(3<i>E</i>)-2-oxohex-3-enedioate",2
+M_CPD0_2030[c],"glycerophosphoserine",1
+M_CDPDIACYLGLYCEROL_C12[c],"M_M_CDPDIACYLGLYCEROL_C12",3
+M_BIOTIN[c],"biotin",2
+M_CPD_14407[c],"dihomo &gamma;-linolenoyl-CoA",1
+M_CPD0_2463[c],"5-phospho-&alpha;-D-ribose 1,2-cyclic phosphate",1
+M_CPD_16015[c],"2-iminopropanoate",2
+M_CPD_11281[c],"<i>S</i>-sulfanylglutathione",1
+M_D_Glucopyranuronate[c],"M_M_D_Glucopyranuronate",1
+M_PG_C15[c],"M_M_PG_C15",4
+M_MALTOSE[c],"M_M_MALTOSE",6
+M_SQUALENE[c],"squalene",2
+M_R_4_PHOSPHOPANTOTHENOYL_L_CYSTEINE[c],"(R)-4'-phosphopantothenoyl-L-cysteine",3
+M_COUMARALDEHYDE[c],"4-coumaraldehyde",1
+M_CPD1G_277[c],"cerotoyl-CoA",1
+M_DCTP[c],"dCTP",4
+M_ACP[c],"M_M_ACP",42
+M_CPD0_2483[c],"<i>N</i>-(2,3-dihydroxybenzoyl)-L-serine trimer",1
+M_CATECHOL[c],"catechol",6
+M_UDP_MURNAC_TETRAPEPTIDE[c],"UDP-<i>N</i>-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimeloyl-D-alanine",1
+M_CYCLOHEXANOL[c],"cyclohexanol",1
+M_PROTOHEME[c],"protoheme",3
+M_PE_C17[c],"M_M_PE_C17",3
+M_CPD_10663[c],"5-chlorosalicylate",1
+M_2_OXOBUTANOATE[c],"2-oxobutanoate",6
+M_b_Hydroxy_cis_D5_dodecenoyl_ACPs[c],"M_M_b_Hydroxy_cis_D5_dodecenoyl_ACPs",2
+M_CPD_15301[c],"caldariellaquinol",1
+M_ACETOACETYL_COA[c],"acetoacetyl-CoA",4
+M_OLEATE_CPD[c],"oleate",3
+M_PUTRESCINE[c],"putrescine",4
+M_CPD_11527[c],"3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxybutanoyl)-CoA",2
+M_CPD_12019[c],"5-methoxyindoleacetaldehyde",1
+M_METHYL_GLYOXAL[c],"methylglyoxal",3
+M_CPD_10188[c],"nitrilotriacetate",1
+M_CPD_8123[c],"MoO<sub>2</sub>-molybdopterin cofactor",1
+M_5_P_BETA_D_RIBOSYL_AMINE[c],"5-phospho-&beta;-D-ribosylamine",2
+M_ACYL_SN_GLYCEROL_3P_C18_1[c],"M_M_ACYL_SN_GLYCEROL_3P_C18_1",2
+M_CPD_15172[c],"6,7-dehydrobaicalein",1
+M_CDPDIACYLGLYCEROL_C18[c],"M_M_CDPDIACYLGLYCEROL_C18",3
+M_DI_H_URACIL[c],"5,6-dihydrouracil",1
+M_3_CARBOXY_3_HYDROXY_ISOCAPROATE[c],"(2<i>S</i>)-2-isopropylmalate",2
+M_3_OXOPALMITOYL_COA[c],"3-oxo-palmitoyl-CoA",1
+M_CPD_9925[c],"1,4-dihydroxy-2-naphthoyl-CoA",1
+M_HISTIDINOL[c],"histidinol",2
+M_CPD_2183[c],"1-oleoyl-2-palmitoyl-phosphatidylglycerol",1
+M_CPD_14706[c],"<i>S</i>-(4-hydroxy-nonenal-3-yl)-L-cysteine",1
+M_UDP_D_XYLOSE[c],"UDP-&alpha;-D-xylose",1
+M_FORMALDEHYDE[c],"formaldehyde",2
+M_C5[c],"undecaprenyldiphospho-<i>N</i>-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimeloyl-D-alanyl-D-alanine",2
+M_GLUCOSAMINE_1P[c],"&alpha;-D-glucosamine 1-phosphate",2
+M_Trans_D2_undecenoyl_ACPs[c],"M_M_Trans_D2_undecenoyl_ACPs",3
+M_2_AMINO_3_3_OXOPROP_2_ENYL_BUT_2_ENEDI[c],"2-amino-3-carboxymuconate-6-semialdehyde",2
+M_DOPAMINE[c],"dopamine",1
+M_BUTYRIC_ACID[c],"M_M_BUTYRIC_ACID",3
+M_CPD_11525[c],"3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-butanoyl-CoA",1
+M_SER[c],"L-serine",18
+M_TREHALOSE_6P[c],"&alpha;,&alpha;-trehalose 6-phosphate",2
+M_UDP_OHMYR_ACETYLGLUCOSAMINE[c],"UDP-3-<i>O</i>-[(3<i>R</i>)-3-hydroxymyristoyl]-<i>N</i>-acetyl-&alpha;-D-glucosamine",2
+M_CPD_13359[c],"<i>N</i>-acetyl-D-glucosaminyl-<i>N</i>-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanine",1
+M_Oxo_glutarate_dehydrogenase_DH_lipoyl[c],"M_M_Oxo_glutarate_dehydrogenase_DH_lipoyl",2
+M_CPD_541[c],"<i>sn</i>-glycero-3-phospho-1-inositol",1
+M_CPD_16549[c],"3-(<i>N</i>-morpholino)propanal",1
+M_R_3_hydroxymyristoyl_ACPs[c],"M_M_R_3_hydroxymyristoyl_ACPs",4
+M_Oxidized_flavodoxins[c],"M_M_Oxidized_flavodoxins",1
+M_OH_PYR[c],"hydroxypyruvate",3
+M_CPD_14436[c],"<i>N</i>-acetyl-L-glutaminyl-L-glutamine amide",1
+M_CPD_318[c],"monodehydroascorbate radical",1
+M_b_Keto_cis_D5_dodecenoyl_ACPs[c],"M_M_b_Keto_cis_D5_dodecenoyl_ACPs",2
+M_CPD_10267[c],"decanoyl-CoA",2
+M_ADENOSYLCOBALAMIN_5_P[c],"adenosylcobalamin 5'-phosphate",2
+M_CPD_10017[c],"coenzyme F<sub>390</sub>-A",1
+M_CPD_7000[c],"isobutanal",2
+M_XANTHOSINE[c],"xanthosine",2
+M_CPD_10505[c],"(25<i>S</i>)-3&alpha;,7&alpha;,12&alpha;-trihydroxy-5&beta;-cholestanoyl-CoA",1
+M_CH33ADO[c],"5'-deoxyadenosine",4
+M_GLC_1_P[c],"&alpha;-D-glucopyranose 1-phosphate",4
+M_ESTRONE[c],"estrone",1
+M_CROTONYL_COA[c],"crotonyl-CoA",4
+M_SACCHAROPINE[c],"L-saccharopine",1
+M_CPDMETA_13650[c],"3-oxo-5,6-didehydrosuberyl-CoA semialdehyde",2
+M_L_GAMMA_GLUTAMYLCYSTEINE[c],"&gamma;-L-glutamyl-L-cysteine",2
+M_CPD_15656[c],"(3E)-undec-2-enoyl-CoA",1
+M_CARNITINE[c],"L-carnitine",1
+M_CPD_15662[c],"(3R)-hydroxy, 4-<i>trans</i>-undecenoyl-CoA",2
+M_NOREPINEPHRINE[c],"(<i>R</i>)-noradrenaline",1
+M_L_ALPHA_ALANINE[c],"L-alanine",15
+M_CPD0_1905[c],"8-oxo-dGTP",1
+M_CPD_13758[c],"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-oxopropanoyl-CoA",1
+M_CPD_15244[c],"3-oxo-(5Z)-tetradecenoyl-CoA",1
+M_NITRITE[c],"nitrite",5
+M_4_P_PANTOTHENATE[c],"(<i>R</i>)-4'-phosphopantothenate",3
+M_HSCN[c],"thiocyanate",1
+M_CPD_15658[c],"(3R)-hydroxy-nonanoyl-CoA",1
+M_CPD_316[c],"reduced riboflavin",1
+M_CPD_3744[c],"1-butanesulfonate",1
+M_CPD1G_774[c],"6-O-trans-keto-mycolyl-trehalose 6-phosphate",1
+M_2_AMINO_5_OXOCYCLOHEX_1_ENECARBOXYL_COA[c],"2-amino-5-oxocyclohex-1-enecarboxyl-CoA",2
+M_2_HYDROXYPHYTANOYL_COA[c],"2-hydroxyphytanoyl-CoA",1
+M_L_DEHYDRO_ASCORBATE[c],"L-dehydro-ascorbate",1
+M_N_ISOPROPYLAMMELIDE[c],"<i>N</i>-isopropylammelide",1
+M_CPD_14018[c],"(5Z,8Z,11Z,14Z,17Z)-icosapentaenoyl-CoA",2
+M_L_PHOSPHATIDATE_C14[c],"M_M_L_PHOSPHATIDATE_C14",2
+M_L_1_PHOSPHATIDYL_GLYCEROL_P_C12[c],"M_M_L_1_PHOSPHATIDYL_GLYCEROL_P_C12",2
+M_CPD_785[c],"(3E,5R)-5-carboxy-2-oxohept-3-enedioate",2
+M_MANNOSE_6P[c],"&alpha;-D-mannopyranose 6-phosphate",2
+M_OCTAPRENYL_METHOXY_BENZOQUINONE[c],"2-methoxy-6-<i>all trans</i>-octaprenyl-1,4-benzoquinol",3
+M_GDP_4_DEHYDRO_6_DEOXY_D_MANNOSE[c],"GDP-4-dehydro-&alpha;-D-rhamnose",1
+M_L_1_PHOSPHATIDYL_GLYCEROL_P_C17[c],"M_M_L_1_PHOSPHATIDYL_GLYCEROL_P_C17",2
+M_D_BETA_D_HEPTOSE_1_P[c],"D-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose 1-phosphate",1
+M_DGDP[c],"dGDP",3
+M_CLPN_C16_1[c],"M_M_CLPN_C16_1",3
+M_L_PHOSPHATIDATE_C15[c],"M_M_L_PHOSPHATIDATE_C15",2
+M_TYR[c],"L-tyrosine",5
+M_ACET[c],"acetate",21
+M_DPG[c],"3-phospho-D-glyceroyl-phosphate",3
+M_ALPHA_RIBAZOLE[c],"&alpha;-ribazole",2
+M_GUANOSINE[c],"guanosine",1
+M_PE_C16_1[c],"M_M_PE_C16_1",3
+M_NITRIC_OXIDE[c],"nitric oxide",3
+M_UREA[c],"urea",5
+M_THZ_P[c],"4-methyl-5-(2-phosphooxyethyl)thiazole",1
+M_Pentadecanoyl_ACPs[c],"M_M_Pentadecanoyl_ACPs",4
+M_QUINATE[c],"L-quinate",1
+M_ASCORBATE[c],"L-ascorbate",1
+M_CPD1G_1345[c],"trehalose-cis-methoxy-mono-mycolate",1
+M_CPD_7737[c],"(2-carboxy-2,5-dihydro-5-oxofuran-2-yl)-acetate",2
+M_CLPN_C18_1[c],"M_M_CLPN_C18_1",3
+M_CPD_15663[c],"2-<i>trans</i>-nonenoyl-CoA",1
+M_INDOLE_3_GLYCOL[c],"indole-3-glycol",1
+M_PHENOL[c],"phenol",3
+M_Pyruvate_dehydrogenase_acetylDHlipoyl[c],"M_M_Pyruvate_dehydrogenase_acetylDHlipoyl",3
+M_L_LACTATE[c],"(<i>S</i>)-lactate",4
+M_BUTANAL[c],"butan-1-al",1
+M_CPD_11875[c],"normetanephrine",1
+M_ACYL_SN_GLYCEROL_3P_C15[c],"M_M_ACYL_SN_GLYCEROL_3P_C15",2
+M_CPD_72[c],"(25<i>R</i>)-3&alpha;,7&alpha;-dihydroxy-5&beta;-cholestanoyl-CoA",1
+M_METOH[c],"methanol",3
+M_L_PHOSPHATIDATE_C12[c],"M_M_L_PHOSPHATIDATE_C12",2
+M_KDO[c],"3-deoxy-&alpha;-D-<i>manno</i>-2-octulosonate",2
+M_CPD_13847[c],"UDP-2-acetamido-2,6-dideoxy-&alpha;-D-<i>xylo</i>-hex-4-ulose",1
+M_HEME_O[c],"M_M_HEME_O",1
+M_CPD66_28[c],"pregn-5-ene-3,20-dione",1
+M_3_DEHYDRO_SHIKIMATE[c],"3-dehydroshikimate",2
+M_4_IMIDAZOLONE_5_PROPIONATE[c],"4-imidazolone-5-propanoate",2
+M_CPD_7222[c],"(2<i>E</i>)-dodec-2-enoyl-CoA",1
+M_2_AMINO_3_OXO_4_PHOSPHONOOXYBUTYRATE[c],"<i>(2S)</i>-2-amino-3-oxo-4-phosphooxybutanoate",2
+M_CPD_691[c],"adenosylcobyrate",3
+M_3_oxo_stearoyl_ACPs[c],"M_M_3_oxo_stearoyl_ACPs",2
+M_DUTP[c],"dUTP",4
+M_Cis_Delta7_pentadecenoyl_ACPs[c],"M_M_Cis_Delta7_pentadecenoyl_ACPs",2
+M_CPD_1301[c],"tetrahydropteroyl tri-L-glutamate",2
+M_Hept_2_enoyl_ACPs[c],"M_M_Hept_2_enoyl_ACPs",2
+M_CPD_8781[c],"(2Z,4E)-2-hydroxy-5-methyl-6-oxohexa-2,4-dienoate",1
+M_GLUTATHIONE[c],"glutathione",8
+M_FARNESYL_PP[c],"(2<i>E</i>,6<i>E</i>)-farnesyl diphosphate",8
+M_2_DEHYDRO_3_DEOXY_D_GLUCONATE[c],"2-dehydro-3-deoxy-D-gluconate",2
+M_CPD_173[c],"salicyl alcohol",1
+M_CPD_678[c],"hydrogen selenide",1
+M_3_HYDROXY_ANTHRANILATE[c],"3-hydroxyanthranilate",1
+M_CHOLATE[c],"cholate",1
+M_DEAMIDO_NAD[c],"nicotinate adenine dinucleotide",2
+M_CPD_11877[c],"metanephrine",1
+M_2_KETOGLUTARATE[c],"2-oxoglutarate",30
+M_CPD_535[c],"&beta;-D-fructose 2,6-bisphosphate",1
+M_CPD_16458[c],"7,8-dihydrolumazine",1
+M_2_Octenoyl_ACPs[c],"M_M_2_Octenoyl_ACPs",2
+M_Heptadecoleoyl_ACPs[c],"M_M_Heptadecoleoyl_ACPs",3
+M_Red_Glutaredoxins[c],"M_M_Red_Glutaredoxins",1
+M_34_DIHYDROXYPHENYLACETALDEHYDE[c],"3,4-dihydroxyphenylacetaldehyde",2
+M_CPD_201[c],"4-hydroxybenzoyl-CoA",3
+M_CPD_12139[c],"2-propenyl-thiohydroximate-O-sulfate",1
+M_CARBAMOYL_SARCOSINE[c],"<i>N</i>-carbamoylsarcosine",1
+M_SELENOHOMOCYSTEINE[c],"seleno-L-homocysteine",2
+M_2_PG[c],"2-phospho-D-glycerate",3
+M_MET[c],"L-methionine",12
+M_4_Fluoromuconolactone[c],"M_M_4_Fluoromuconolactone",2
+M_ACYL_SN_GLYCEROL_3P_C14[c],"M_M_ACYL_SN_GLYCEROL_3P_C14",2
+M_5_METHYL_THF[c],"5-methyltetrahydropteroyl mono-L-glutamate",4
+M_PROPIONYL_COA[c],"propanoyl-CoA",11
+M_NIACINAMIDE[c],"nicotinamide",2
+M_CPD_8259[c],"&beta;-D-ribosylnicotinate",1
+M_NN_DIMETHYLANILINE[c],"N,N-dimethylaniline",1
+M_CPD_14828[c],"1-C16:0-&alpha;,&omega;-dicarboxyl-2-lysophosphatidate",1
+M_CIS_ACONITATE[c],"<i>cis</i>-aconitate",3
+M_D_GLUCARATE[c],"D-glucarate",2
+M_N_FORMIMINO_L_GLUTAMATE[c],"<i>N</i>-formimino-L-glutamate",2
+M_FORMYL_COA[c],"formyl-CoA",2
+M_UDP_GLUCURONATE[c],"UDP-&alpha;-D-glucuronate",2
+M_PG_C16[c],"M_M_PG_C16",4
+M_CPD_10020[c],"(5R)-5-benzyl-hydantoin",1
+M_L_CYSTEATE[c],"L-cysteate",1
+M_DIAMINONONANOATE[c],"7,8-diaminopelargonate",2
+M_CPD_13014[c],"tributyrin",1
+M_CPD0_2121[c],"<i>trans</i>-hex-2-enoyl-CoA",1
+M_NICOTINE[c],"(<i>S</i>)-nicotine",1
+M_Hexanoyl_ACPs[c],"M_M_Hexanoyl_ACPs",2
+M_Sulfur_Carrier_Proteins_ThiI[c],"M_M_Sulfur_Carrier_Proteins_ThiI",2
+M_CPD_10284[c],"3-oxo-myristoyl-CoA",1
+M_Thiocarboxyadenylated_ThiS_Proteins[c],"M_M_Thiocarboxyadenylated_ThiS_Proteins",2
+M_CPD_622[c],"(2<i>S</i>,3<i>S</i>)-2-methylcitrate",2
+M_CPD_7035[c],"2-phenylethanol",1
+M_CPD_12175[c],"(<i>S</i>)-3-hydroxy-isobutanoate",1
+M_BIOPTERIN[c],"M_M_BIOPTERIN",1
+M_CPD_665[c],"1-propanal",1
+M_Oxo_glutarate_dehydrogenase_lipoyl[c],"M_M_Oxo_glutarate_dehydrogenase_lipoyl",2
+M_CDPDIACYLGLYCEROL_C17[c],"M_M_CDPDIACYLGLYCEROL_C17",3
+M_MALTOHEXAOSE[c],"maltohexaose",1
+M_3_oxo_cis_D7_pentadecenoyl_ACPs[c],"M_M_3_oxo_cis_D7_pentadecenoyl_ACPs",2
+M_CPD_19731[c],"5-chloro-3-oxoadipate",3
+M_LL_DIAMINOPIMELATE[c],"L,L-diaminopimelate",2
+M_CLPN_C12[c],"M_M_CLPN_C12",3
+M_CARBOXYMETHYL_HYDROXYPHENYLPROPCOA[c],"2-carboxymethyl-3-hydroxyphenylpropanoyl-CoA",1
+M_CPD_13689[c],"(25S)-3-oxocholest-4-en-26-oate",1
+M_CPD_13684[c],"cholest-5-en-3-one",1
+M_3_fluoro_ciscis_muconate[c],"M_M_3_fluoro_ciscis_muconate",2
+M_D_ERYTHRO_IMIDAZOLE_GLYCEROL_P[c],"D-erythro-imidazole-glycerol-phosphate",2
+M_ACRYLATE[c],"acrylate",1
+M_UROCANATE[c],"urocanate",3
+M_D_RIBULOSE_15_P2[c],"D-ribulose-1,5-bisphosphate",2
+M_4_METHYLCATECHOL[c],"4-methylcatechol",3
+M_2_Septenoyl_ACPs[c],"M_M_2_Septenoyl_ACPs",2
+M_SARCOSINE[c],"sarcosine",1
+M_GLYCEROPHOSPHOGLYCEROL[c],"glycerophosphoglycerol",1
+M_2K_4CH3_PENTANOATE[c],"4-methyl-2-oxopentanoate",3
+M_CPD_575[c],"cyclohexane-1-carboxylate",1
+M_COA_GROUP[c],"a coenzyme-A group",1
+M_KDO_LIPID_IVA[c],"&alpha;-Kdo-(2&rarr;6)-lipid IV<sub>A</sub>",2
+M_CPD1G_1346[c],"trehalose-trans-methoxy-mono-mycolate",1
+M_CPD_822[c],"N<sup>2</sup>-succinyl-L-glutamate 5-semialdehyde",1
+M_L_PHOSPHATIDATE_C16[c],"M_M_L_PHOSPHATIDATE_C16",2
+M_PG_C12[c],"M_M_PG_C12",4
+M_CPD_9700[c],"hypoglycin B",1
+M_CPD_569[c],"<i>N</i>-acetylputrescine",2
+M_CPD_12297[c],"<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-isoglutaminyl-L-lysyl-(glycyl)<sub>5</sub>-D-alanyl-D-alanine",1
+M_NADP[c],"NADP<sup>+</sup>",97
+M_CPD0_882[c],"1,6-anhydro-<i>N</i>-acetyl-&beta;-muramate",2
+M_BETA_D_FRUCTOSE_e[e],"Fructose external",3
+M_fluoride[c],"M_M_fluoride",3
+M_CPD_8815[c],"M_M_CPD_8815",1
+M_HYDROXYMUCONATE_SALD[c],"M_M_HYDROXYMUCONATE_SALD",1
+M_S_LACTOYL_GLUTATHIONE[c],"M_M_S_LACTOYL_GLUTATHIONE",2
+M_Charged_GLT_tRNAs[c],"M_M_Charged_GLT_tRNAs",2
+M_GLT_tRNAs[c],"M_M_GLT_tRNAs",2
+M_CPD_7836[c],"Myristate (C14)",2
+M_PALMITATE[c],"Palmitate (C16)",2
+M_N_ACETYL_D_GLUCOSAMINE_e[c],"Extracellular N-acetyl-D-glucosamine",2
